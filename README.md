@@ -1,9 +1,9 @@
-<!--                           /MMN=,
+                             /MMN=,
                              MMMMMMMMZ7>
                            .MMMMMMMMI/
-              PUT        .MMMMMMMMM?
-          A BIRD       .MMMMMMMMMMM
-        ON IT        ,MMMMMMMMMMMMM
+                         .MMMMMMMMM?
+                       .MMMMMMMMMMM
+                     ,MMMMMMMMMMMMM
                   ,OMMMMMMMMMMMMMMMM
                 ,MMMMMMMMMMMMMMMMMMM
               ,MMMMMMMMMMMMMMMMMMMMM
@@ -14,7 +14,7 @@
   ~M87N7="           +M7MN~
 +M7~                    \Z
                         ,MZ;.
-                       -->
+
 
 Just a bunch of links that may help make your front end design project go a tad bit smoother. New links added every now and then
 
