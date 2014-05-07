@@ -1,0 +1,13 @@
+## Showcases
+
+* [Content Snippets](http://www.contentsnippets.com/)
+* [Designerboard - Behance, Dribbble & DesignerNews all in one](http://designerboard.co/)
+* [Flat UI Design A showcase of the best examples of the flat UI design aesthetic on the web.](http://fltdsgn.com/)
+* [Free Vector Maps - Royalty-Free Vector Maps](https://www.freevectormaps.com/)
+* [Niice. A search engine with taste.](http://www.niice.co/)
+* [Plunker - Explore](http://plnkr.co/)
+* [Side Projects](http://sideprojects.web3canvas.com/)
+* [The Evolution of the Web](http://www.evolutionoftheweb.com/)
+* [Workshop - Chrome Experiments](http://workshop.chromeexperiments.com/)
+* [httpster.net](http://httpster.net/)
+* [tooling-book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling/)
