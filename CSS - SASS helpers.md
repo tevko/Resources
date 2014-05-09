@@ -1,5 +1,7 @@
 ## CSS - SASS helpers
 
+
+* [SASS Mixins for IE only CSS Properties](http://sassmeister.com/gist/9949951)
 * [3D CSS Tester](http://thewebrocks.com/demos/3D-css-tester/)
 * [A list of my stuff related to Sass.](https://gist.github.com/HugoGiraudel/8332582)
 * [Advanced cross-browser flexbox - Dev.Opera](http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/)
