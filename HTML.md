@@ -1,6 +1,6 @@
 ## HTML
 
-*[A place to discuss and evolve web component best-practices](http://webcomponents.org/)
+* [A place to discuss and evolve web component best-practices](http://webcomponents.org/)
 * [ResponsiveComments. - A client side solution to conditional loading in Responsive Web Design](http://responsivecomments.com/)
 * [Animatron](http://animatron.com/)
 * [CSS Inliner Tool - MailChimp Labs](http://beaker.mailchimp.com/inline-css)
