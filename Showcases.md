@@ -1,5 +1,6 @@
 ## Showcases
 
+* [A showcase of redesigns from across the web](http://redsgned.com/)
 * [Content Snippets](http://www.contentsnippets.com/)
 * [Designerboard - Behance, Dribbble & DesignerNews all in one](http://designerboard.co/)
 * [Flat UI Design A showcase of the best examples of the flat UI design aesthetic on the web.](http://fltdsgn.com/)
