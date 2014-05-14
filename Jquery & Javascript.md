@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [What's new in ES6](https://github.com/lukehoban/es6features)
 * [A collection of shapes made with SVG - UnitedShapes.com](http://unitedshapes.com/)
 * [AdminJS- The Backend-Agnostic Administration Framework](http://adminjs.com/)
 * [AnimateScroll - jQuery Plugin for Animating Scroll](http://plugins.compzets.com/animatescroll/)

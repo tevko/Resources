@@ -1,6 +1,8 @@
 ## CSS - SASS helpers
 
-
+* [Defines all vocabulary related to CSS](http://pumpula.net/p/apps/css-vocabulary/)
+* [Get all possible values for a CSS property](http://cssvalues.com/)
+* [Alphabetical list of CSS Properties](http://ref.openweb.io/CSS/)
 * [SASS Mixins for IE only CSS Properties](http://sassmeister.com/gist/9949951)
 * [3D CSS Tester](http://thewebrocks.com/demos/3D-css-tester/)
 * [A list of my stuff related to Sass.](https://gist.github.com/HugoGiraudel/8332582)
