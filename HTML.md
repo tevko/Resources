@@ -1,5 +1,6 @@
 ## HTML
 
+* [Custom form elements used to be difficult](http://wtfforms.com/)
 * [Test HTML emails for FREE](http://putsmail.com/)
 * [A place to discuss and evolve web component best-practices](http://webcomponents.org/)
 * [ResponsiveComments. - A client side solution to conditional loading in Responsive Web Design](http://responsivecomments.com/)
