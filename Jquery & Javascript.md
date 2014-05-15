@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Easy unit testing with Jest](http://facebook.github.io/jest/index.html)
 * [What's new in ES6](https://github.com/lukehoban/es6features)
 * [A collection of shapes made with SVG - UnitedShapes.com](http://unitedshapes.com/)
 * [AdminJS- The Backend-Agnostic Administration Framework](http://adminjs.com/)
@@ -68,7 +69,6 @@
 * [dna.js Template Cloner • DOM Templating Engine for jQuery](http://dnajs.org/)
 * [elclanrs-advanced-jquery-boilerplate · GitHub](https://github.com/elclanrs/advanced-jquery-boilerplate)
 * [eligrey-FileSaver.js](https://github.com/eligrey/FileSaver.js)
-* [example--gulpfile.js]()
 * [favico.js - Make a use of your favicon](http://lab.ejci.net/favico.js/)
 * [filamentgroup-Southstreet](https://github.com/filamentgroup/Southstreet?utm_source=Responsive+Design+Weekly&utm_campaign=b6383193ca-Responsive_Design_Weekly_767&utm_medium=email&utm_term=0_df65b6d7c8-b6383193ca-59002865)
 * [floatlabels.js by Clubdesign](http://clubdesign.github.io/floatlabels.js/)

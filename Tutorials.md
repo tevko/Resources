@@ -42,7 +42,6 @@
 * [Responsive Web Design Resources - This Is Responsive](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [Shape Hover Effect with SVG - Demo 3](http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index3.html)
 * [Snugug-north](https://github.com/snugug/north)
-* [Speed up your site with Chrome DevTools - Web design - Creative Bloq](http://www.creativebloq.com/netmag/speed-your-site-chrome-devtools-121310166?utm_source=CSS-Weekly&utm_campaign=Issue-90&utm_medium=email)
 * [The Ginger Project — Show your story](http://www.getginger.co/)
 * [The Pastry Box Project - 8 October 2013, baked by Oli Studholme](http://the-pastry-box-project.net/oli-studholme/2013-october-8/)
 * [The Web Platform- Browser technologies](http://platform.html5.org/)
@@ -59,4 +58,3 @@
 * [flexbox in 5 minutes](http://devbryce.com/site/flexbox/)
 * [oak.is - Animated SVGs- Custom easing and timing](http://oak.is/thinking/animated-svgs/)
 * [requestAnimationFrame for smart animating - Paul Irish](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
-* [social_media_design_blueprint21.png (600×9487)](http://mrtemmtation.com/wp-content/uploads/2013/10/social_media_design_blueprint21.png)

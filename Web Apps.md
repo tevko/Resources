@@ -7,7 +7,7 @@
 * [Features - import•io](https://import.io/features)
 * [Find out the size of a piece of text -- ...because (byte)size matters!](http://bytesizematters.com/)
 * [Free Beautiful Online Survey & Form Builder - Typeform](http://www.typeform.com/)
-* [Free online invoicing App & time tracking software – pricing - Nutcache](http://www.nutcache.com/pricing.html)
+* [Free online invoicing App & time tracking software Nutcache](http://www.nutcache.com/free.html)
 * [IP Address Details - ipinfo.io](http://ipinfo.io/)
 * [JsonStub](http://jsonstub.com/)
 * [Koding - A New Way For Developers To Work](https://koding.com/)
