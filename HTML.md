@@ -1,5 +1,6 @@
 ## HTML
 
+* [Simple and Responsive Email Template](http://leemunroe.github.io/html-email-template/email.html)
 * [Custom form elements used to be difficult](http://wtfforms.com/)
 * [Test HTML emails for FREE](http://putsmail.com/)
 * [A place to discuss and evolve web component best-practices](http://webcomponents.org/)
