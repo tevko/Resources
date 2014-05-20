@@ -1,5 +1,7 @@
 ## Web Apps
 
+* [Do More with Google Apps](https://developers.google.com/apps-script/)
+* [Open Sourced Maps](http://www.openstreetmap.org/#map=5/45.951/-15.820)
 * [Animatron](http://animatron.com/)
 * [Back of a Napkin](http://www.backofanapkin.co.nz/start)
 * [BitNami- The App Store for Server Software](http://bitnami.com/)
