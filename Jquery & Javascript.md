@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [CSS Shapes Polyfill](https://github.com/adobe-webplatform/css-shapes-polyfill)
 * [Easy unit testing with Jest](http://facebook.github.io/jest/index.html)
 * [What's new in ES6](https://github.com/lukehoban/es6features)
 * [A collection of shapes made with SVG - UnitedShapes.com](http://unitedshapes.com/)
