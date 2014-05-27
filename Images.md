@@ -1,5 +1,6 @@
 ## Images
 
+* [Node-WebKit based GUI for SVGO](https://github.com/svg/svgo-gui)
 * [The Ultimate Image Optimization Tool](http://optimizilla.com/)
 * [A curated collection of free resources, all for commercial use.](http://www.imcreator.com/free)
 * [Free photos from Reddit](http://www.reddit.com/r/free_images/)
