@@ -1,5 +1,6 @@
 ## Images
 
+* [1.4 Million Free Graphic Files for Download](http://www.freepik.com/)
 * [Node-WebKit based GUI for SVGO](https://github.com/svg/svgo-gui)
 * [The Ultimate Image Optimization Tool](http://optimizilla.com/)
 * [A curated collection of free resources, all for commercial use.](http://www.imcreator.com/free)
