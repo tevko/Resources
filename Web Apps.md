@@ -1,5 +1,6 @@
 ## Web Apps
 
+* [https://laverna.cc/](JavaScript note taking application with Markdown editor and encryption support)
 * [Do More with Google Apps](https://developers.google.com/apps-script/)
 * [Open Sourced Maps](http://www.openstreetmap.org/#map=5/45.951/-15.820)
 * [Animatron](http://animatron.com/)
