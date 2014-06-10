@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [MotorCortex makes web animations easy](http://motorcortexjs.com/#)
 * [CSS Shapes Polyfill](https://github.com/adobe-webplatform/css-shapes-polyfill)
 * [Easy unit testing with Jest](http://facebook.github.io/jest/index.html)
 * [What's new in ES6](https://github.com/lukehoban/es6features)
