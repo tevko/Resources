@@ -1,5 +1,10 @@
 ## Images
 
+* [License Free, High Quality Photos](http://skitterphoto.com)
+* [Free monthly photos for all your creative needs.](http://deathtothestockphoto.com/)
+* [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
+* [1.4 Million Free Graphic Files for Download](http://www.freepik.com/)
+* [Node-WebKit based GUI for SVGO](https://github.com/svg/svgo-gui)
 * [The Ultimate Image Optimization Tool](http://optimizilla.com/)
 * [A curated collection of free resources, all for commercial use.](http://www.imcreator.com/free)
 * [Free photos from Reddit](http://www.reddit.com/r/free_images/)

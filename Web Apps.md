@@ -1,5 +1,9 @@
 ## Web Apps
 
+* [Web Speech API components](http://zenorocha.github.io/voice-elements/)
+* [Unicode Character Recognition](http://shapecatcher.com/)
+* [Run Your Dart C++ Java Rails Node.js PHP jQuery Ruby Django express Python CodeIgniter .NET Flask CakePHP Bash Code Online](http://runnable.com/)
+* [JavaScript note taking application with Markdown editor and encryption support](https://laverna.cc/)
 * [Do More with Google Apps](https://developers.google.com/apps-script/)
 * [Open Sourced Maps](http://www.openstreetmap.org/#map=5/45.951/-15.820)
 * [Animatron](http://animatron.com/)
