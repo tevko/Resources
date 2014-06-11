@@ -1,5 +1,6 @@
 ## Tutorials
 
+* [Custom touch gestures from Google](https://developers.google.com/web/fundamentals/input/touch-input/touchevents/)
 * [A video podcast that tackles one CSS topic per letter of the alphabet](http://www.atozcss.com/)
 * [CoffeScript Examples](http://css-tricks.com/jquery-coffeescript/)
 * [Better Restaurant Websites](http://www.better-restaurant-websites.com/)
