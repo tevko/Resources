@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Tappy! - a lightweight normalized tap event.](https://github.com/filamentgroup/tappy)
 * [MotorCortex makes web animations easy](http://motorcortexjs.com/#)
 * [CSS Shapes Polyfill](https://github.com/adobe-webplatform/css-shapes-polyfill)
 * [Easy unit testing with Jest](http://facebook.github.io/jest/index.html)
