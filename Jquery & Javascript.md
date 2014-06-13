@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Load CSS asunchronously](https://github.com/filamentgroup/loadCSS/)
 * [D3.js is a JavaScript library for manipulating documents based on data.](http://d3js.org/)
 * [Tappy! - a lightweight normalized tap event.](https://github.com/filamentgroup/tappy)
 * [MotorCortex makes web animations easy](http://motorcortexjs.com/#)
