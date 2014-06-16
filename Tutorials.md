@@ -1,5 +1,6 @@
 ## Tutorials
 
+* [A Tutorial on Getting Started with Hoodie](http://www.sitepoint.com/tutorial-getting-started-hoodie/)
 * [Custom touch gestures from Google](https://developers.google.com/web/fundamentals/input/touch-input/touchevents/)
 * [A video podcast that tackles one CSS topic per letter of the alphabet](http://www.atozcss.com/)
 * [CoffeScript Examples](http://css-tricks.com/jquery-coffeescript/)

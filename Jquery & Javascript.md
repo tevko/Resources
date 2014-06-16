@@ -1,5 +1,7 @@
 ## Jquery & Javascript
 
+* [VERY FAST APP DEVELOPMENT](http://hood.ie/)
+* [A JavaScript library for Google Analytics](http://boba.space150.com/)
 * [Load CSS asunchronously](https://github.com/filamentgroup/loadCSS/)
 * [D3.js is a JavaScript library for manipulating documents based on data.](http://d3js.org/)
 * [Tappy! - a lightweight normalized tap event.](https://github.com/filamentgroup/tappy)
