@@ -1,5 +1,8 @@
 ## CSS - SASS helpers
 
+* [simple flexible grid](https://github.com/dope/lemonade)
+* [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
+* [New CSS gradient possibilities with the background-blend-mode property](http://bennettfeely.com/gradients/)
 * [Simple, dynamic CSS rules to give life to your sites.](http://www.vittoriozaccaria.net/dyn-css/)
 * [Defines all vocabulary related to CSS](http://pumpula.net/p/apps/css-vocabulary/)
 * [Get all possible values for a CSS property](http://cssvalues.com/)
