@@ -1,5 +1,6 @@
 ## Showcases
 
+* [Inspiration for subtle hover effects](http://tympanus.net/Development/HoverEffectIdeas/)
 * [A showcase of redesigns from across the web](http://redsgned.com/)
 * [Content Snippets](http://www.contentsnippets.com/)
 * [Designerboard - Behance, Dribbble & DesignerNews all in one](http://designerboard.co/)
