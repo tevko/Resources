@@ -1,5 +1,6 @@
 ## Showcases
 
+* [Caption Hover Effects](http://tympanus.net/Tutorials/CaptionHoverEffects/)
 * [Inspiration for subtle hover effects](http://tympanus.net/Development/HoverEffectIdeas/)
 * [A showcase of redesigns from across the web](http://redsgned.com/)
 * [Content Snippets](http://www.contentsnippets.com/)
