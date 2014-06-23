@@ -1,5 +1,6 @@
 ## CSS - SASS helpers
 
+* [Adds OpenType features—ligatures, kerning, and more—to Normalize.css](https://github.com/kennethormandy/normalize-opentype.css)
 * [simple flexible grid](https://github.com/dope/lemonade)
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
 * [New CSS gradient possibilities with the background-blend-mode property](http://bennettfeely.com/gradients/)
