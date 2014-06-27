@@ -11,3 +11,6 @@
 * [Let Travis CI take care of running your tests and deploying your apps.](https://travis-ci.com/plans)
 * [Proudly powering over 100,000 cloud MongoDB databases in 23 datacenters around the world.](https://mongolab.com/plans/pricing/)
 * [Build Realtime IoT Apps that Scale](http://www.pubnub.com/pricing/)
+* [Enterprise Grade Two-Factor Authentication](https://www.authy.com/developer/pricing)
+* [DEVELOP, HOST, AND SCALE YOUR APPS IN THE CLOUD](https://www.openshift.com/products/pricing)
+* [Bitnami makes it incredibly easy to deploy apps with native installers, as virtual machines, or in the cloud.](https://bitnami.com/cloud/pricing)
