@@ -1,0 +1,13 @@
+## Free For Developers
+
+* [Use GitHub or Bitbucket and deploy your projects whenever you push to your repository.](http://ftploy.com/pricing)
+* [The easiest way to add great search to your website](https://swiftype.com/pricing)
+* [Connect and Automate Over 300 Web Apps](https://zapier.com/)
+* [Web Data Extraction Made Easy](https://import.io/pricing)
+* [THE WORLD'S MOST POWERFUL WEB IDE](https://codio.com/s/pricing/)
+* [Deploy your apps from GitHub, Bitbucket or your own repositories to one or many servers in one click.](http://dploy.io/)
+* [Custom Analytics for your Site or App](https://keen.io/pricing)
+* [Fastest way to build user management with payments, email, and social.](https://www.userapp.io/#pricing)
+* [Let Travis CI take care of running your tests and deploying your apps.](https://travis-ci.com/plans)
+* [Proudly powering over 100,000 cloud MongoDB databases in 23 datacenters around the world.](https://mongolab.com/plans/pricing/)
+* [Build Realtime IoT Apps that Scale](http://www.pubnub.com/pricing/)
