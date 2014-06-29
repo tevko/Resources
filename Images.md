@@ -13,7 +13,6 @@
 * [Fleurs Coiffeur Liqueur](http://fleurscoiffeur.com/)
 * [Fluidbox (v1.3) - CodePen](http://codepen.io/terrymun/full/JKHwp)
 * [Gratisography- Free, use as you please, high-resolution pictures.](http://www.gratisography.com/)
-* [Iconion - Free Icon Maker](http://iconion.com/)
 * [Iconogen - Favicon, Windows 8 Tiles, Apple Touch Icon and iOS7 Icon Generator](http://iconogen.com/)
 * [Little Visuals - Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them anyway you want.](http://littlevisuals.co/)
 * [Magnifier.js demo](http://mark-rolich.github.io/Magnifier.js/)
