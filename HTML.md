@@ -12,7 +12,6 @@
 * [Entity Lookup](http://entity-lookup.leftlogic.com/)
 * [HTMLHint](http://htmlhint.com/)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
-* [Periodic Table of the Elements - Josh Duck](http://joshduck.com/periodic-table.html)
 * [Share Button Test](http://carrot.github.io/share-button/)
 * [TABLEIZER! -- Spreadsheets to HTML Tables Tool](http://tableizer.journalistopia.com/)
 * [Unicode character table](http://unicode-table.com/en/#0023)
