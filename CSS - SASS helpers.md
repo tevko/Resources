@@ -48,7 +48,6 @@
 * [Simptip- a simple CSS tooltip made with Sass](http://arashm.net/lab/simptip/)
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [Tridiv - CSS 3D Editor](http://tridiv.com/)
-* [Visualize and manipulate CSS transition functions](http://cssglue.com/cubic?utm_source=CSS-Weekly&utm_campaign=Issue-69&utm_medium=email)
 * [atMedia.info - CSS Media Query Generator](http://atmedia.info/)
 * [css2sass - Convert CSS Snippets to Syntactically Awesome StyleSheets code](http://css2sass.heroku.com/)
 * [csswizardry-CSS-Guidelines](https://github.com/csswizardry/CSS-Guidelines)
