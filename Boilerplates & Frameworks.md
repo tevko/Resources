@@ -1,7 +1,6 @@
 ## Boilerplates & Frameworks
 
 * [Contract-Contract.md at master · csswizardry-Contract](https://github.com/csswizardry/Contract/blob/master/Contract.md)
-* [Cool Kitten- A parallax scrolling responsive framework](http://jalxob.com/cool-kitten/)
 * [HTML EMAIL BOILERPLATE v 0.5 updated 11-5](http://htmlemailboilerplate.com/)
 * [Home - Clank](http://getclank.com/)
 * [Hoodie](http://hood.ie/)
