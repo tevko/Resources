@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [Turn websites into structured APIs from your browser in seconds](https://www.kimonolabs.com/pricing)
 * [Use GitHub or Bitbucket and deploy your projects whenever you push to your repository.](http://ftploy.com/pricing)
 * [The easiest way to add great search to your website](https://swiftype.com/pricing)
 * [Connect and Automate Over 300 Web Apps](https://zapier.com/)
