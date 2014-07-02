@@ -1,5 +1,6 @@
 ## Tutorials
 
+* [Making a Responsive Grid with SASS](http://webdesign.tutsplus.com/tutorials/a-simple-responsive-grid-made-even-better-with-sass--cms-21540)
 * [A Tutorial on Getting Started with Hoodie](http://www.sitepoint.com/tutorial-getting-started-hoodie/)
 * [Custom touch gestures from Google](https://developers.google.com/web/fundamentals/input/touch-input/touchevents/)
 * [A video podcast that tackles one CSS topic per letter of the alphabet](http://www.atozcss.com/)
