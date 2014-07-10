@@ -1,5 +1,6 @@
 ## Images
 
+* [Free Stock Video](http://mazwai.com/)
 * [All free high-quality photos on one site](http://www.pexels.com/)
 * [License Free, High Quality Photos](http://skitterphoto.com)
 * [Free monthly photos for all your creative needs.](http://deathtothestockphoto.com/)
