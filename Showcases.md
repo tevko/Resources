@@ -15,3 +15,4 @@
 * [Workshop - Chrome Experiments](http://workshop.chromeexperiments.com/)
 * [httpster.net](http://httpster.net/)
 * [tooling-book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling/)
+* [A repository of different color schemes for Google Maps aimed towards web designers and developers](http://snazzymaps.com/)
