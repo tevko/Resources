@@ -1,5 +1,6 @@
 ## Fonts, Typography, & Icons
 
+* [Icons for Developers](http://devicon.fr/)
 * [Farewell Regular - Free font project- on Behance](http://www.behance.net/gallery/-Farewell-Regular-Free-font-project/11678489)
 * [ASFALTO [free font] on Behance](http://www.behance.net/gallery/ASFALTO-free-font/13594197)
 * [Barokah - FREE FONT on Behance](http://www.behance.net/gallery/Barokah-FREE-FONT/13403303)
