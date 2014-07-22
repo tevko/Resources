@@ -39,3 +39,4 @@
 * [localForage by mozilla](http://mozilla.github.io/localForage/)
 * [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)
 * [sMAILs - simple EMAIL styling - by @florianguenther](http://smails.herokuapp.com/)
+* [Extract everything you need from PSD comps - in your browser ](https://projectparfait.adobe.com/)
