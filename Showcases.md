@@ -1,5 +1,6 @@
 ## Showcases
 
+* [Responsive Logos](http://responsivelogos.co.uk/)
 * [Web Components with Googles API](http://googlewebcomponents.github.io/)
 * [Caption Hover Effects](http://tympanus.net/Tutorials/CaptionHoverEffects/)
 * [Inspiration for subtle hover effects](http://tympanus.net/Development/HoverEffectIdeas/)
