@@ -1,5 +1,6 @@
 ## CSS - SASS helpers
 
+* [Above the fold inline CSS plugin](https://github.com/addyosmani/critical)
 * [Create tasty CSS3 powered animations in no time. ](http://bouncejs.com/)
 * [Adds OpenType features—ligatures, kerning, and more—to Normalize.css](https://github.com/kennethormandy/normalize-opentype.css)
 * [simple flexible grid](https://github.com/dope/lemonade)
