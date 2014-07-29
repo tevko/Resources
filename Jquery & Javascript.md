@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [A modern approach for Computer Vision on the web](http://trackingjs.com/)
 * [dc.js - Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
 * [A highly modular, loosely coupled, non-frameworky framework for building advanced JavaScript apps.](http://ampersandjs.com/)
 * [VERY FAST APP DEVELOPMENT](http://hood.ie/)
