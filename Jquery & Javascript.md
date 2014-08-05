@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Use your phone to control your webapp](https://github.com/ehzhang/nunchuck)
 * [AutoPrefixer for JS pollyfills](https://github.com/azproduction/autopolyfiller)
 * [Easily add user-to-user instant messaging to your web-app](https://dropinchat.com/)
 * [A modern approach for Computer Vision on the web](http://trackingjs.com/)
