@@ -1,5 +1,6 @@
 ## Responsive
 
+* [Free device detection](http://wurfl.io/)
 * [A group of plugins for responsive tables](https://github.com/filamentgroup/tablesaw)
 * [Conditional Media Query Mixins - CSS-Tricks](http://css-tricks.com/conditional-media-query-mixins/)
 * [Ink- A Responsive Email Framework from ZURB](http://zurb.com/ink/)
