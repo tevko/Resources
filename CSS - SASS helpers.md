@@ -1,5 +1,6 @@
 ## CSS - SASS helpers
 
+* [Paste in CSS, get back shorthand](http://shrthnd.volume7.io/)
 * [Performance Metrics on CSS properties](http://csstriggers.com/)
 * [Stats on CSS](http://cssstats.com/)
 * [flexible CSS Grid](http://flexible.gs/)
