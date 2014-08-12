@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [The definitive source of the best JavaScript libraries, frameworks, and plugins.](http://www.jsdb.io/)
 * [Use your phone to control your webapp](https://github.com/ehzhang/nunchuck)
 * [AutoPrefixer for JS pollyfills](https://github.com/azproduction/autopolyfiller)
 * [Easily add user-to-user instant messaging to your web-app](https://dropinchat.com/)
