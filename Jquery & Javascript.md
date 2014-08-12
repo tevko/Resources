@@ -54,7 +54,6 @@
 * [Pizza Pie Charts - Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
 * [Planetary.js- Awesome interactive globes for the web](http://planetaryjs.com/)
 * [Popular modules - Node.JS Modules](https://nodejsmodules.org/)
-* [Progression.js](http://git.aaronlumsden.com/progression/#demo)
 * [QuestionMark.js](http://www.impressivewebs.com/demo-files/question-mark-js/)
 * [Raphaël—JavaScript Library](http://raphaeljs.com/)
 * [ScrollMagic - The jQuery plugin for magical scroll interactions.](http://janpaepke.github.io/ScrollMagic/)
