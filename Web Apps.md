@@ -1,5 +1,7 @@
 ## Web Apps
 
+* [It's an app store for algorithms](http://algorithmia.com/)
+* [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
 * [HTML5 Clientless Remote Desktop](http://guac-dev.org/)
 * [Create API's for your Python, Ruby, and R scripts, so you can call them via HTTP. No server setup required.](https://api.blockspring.com/)
 * [Write PHP Online](http://writecodeonline.com/php/)
