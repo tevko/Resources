@@ -15,3 +15,4 @@
 * [Enterprise Grade Two-Factor Authentication](https://www.authy.com/developer/pricing)
 * [DEVELOP, HOST, AND SCALE YOUR APPS IN THE CLOUD](https://www.openshift.com/products/pricing)
 * [Bitnami makes it incredibly easy to deploy apps with native installers, as virtual machines, or in the cloud.](https://bitnami.com/cloud/pricing)
+* [Expertly test & analyze your PHP projects](https://insight.sensiolabs.com/pricing)
