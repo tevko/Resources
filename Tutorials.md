@@ -1,5 +1,6 @@
 ## Tutorials
 
+* [Google on Monetization](https://developers.google.com/web/fundamentals/monetization/ads/)
 * [Debugging with Git Bisect](http://www.sitepoint.com/debugging-git-blame-bisect/)
 * [all about SVG](http://css-tricks.com/mega-list-svg-information/)
 * [Using the Picture Element](http://dev.opera.com/articles/responsive-images/)
