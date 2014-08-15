@@ -1,5 +1,6 @@
 ## Web Apps
 
+* [Manipulate PDFs](http://smallpdf.com/)
 * [It's an app store for algorithms](http://algorithmia.com/)
 * [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
 * [HTML5 Clientless Remote Desktop](http://guac-dev.org/)
