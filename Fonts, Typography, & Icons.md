@@ -1,5 +1,6 @@
 ## Fonts, Typography, & Icons
 
+* [Rabiola | Free Font](https://www.behance.net/gallery/18833181/Rabiola-Free-Font)
 * [Icons for Developers](http://devicon.fr/)
 * [Farewell Regular - Free font project- on Behance](http://www.behance.net/gallery/-Farewell-Regular-Free-font-project/11678489)
 * [ASFALTO [free font] on Behance](http://www.behance.net/gallery/ASFALTO-free-font/13594197)
