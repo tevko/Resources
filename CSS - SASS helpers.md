@@ -1,5 +1,6 @@
 ## CSS - SASS helpers
 
+* [A Flexbox Grid Editor](http://bennettfeely.com/flexplorer/)
 * [Paste in CSS, get back shorthand](http://shrthnd.volume7.io/)
 * [Performance Metrics on CSS properties](http://csstriggers.com/)
 * [Stats on CSS](http://cssstats.com/)
