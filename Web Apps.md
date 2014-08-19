@@ -1,5 +1,6 @@
 ## Web Apps
 
+* [One-click, read-only, burner mailboxes](http://slippery.email/)
 * [Manipulate PDFs](http://smallpdf.com/)
 * [It's an app store for algorithms](http://algorithmia.com/)
 * [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
