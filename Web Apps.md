@@ -1,5 +1,6 @@
 ## Web Apps
 
+* [Press a key, get a keyCode!](http://keycod.es/)
 * [One-click, read-only, burner mailboxes](http://slippery.email/)
 * [Manipulate PDFs](http://smallpdf.com/)
 * [It's an app store for algorithms](http://algorithmia.com/)
