@@ -1,5 +1,6 @@
 ## CSS - SASS helpers
 
+* [One-stop CSS preprocessor reference](http://csspre.com/)
 * [A Flexbox Grid Editor](http://bennettfeely.com/flexplorer/)
 * [Paste in CSS, get back shorthand](http://shrthnd.volume7.io/)
 * [Performance Metrics on CSS properties](http://csstriggers.com/)
