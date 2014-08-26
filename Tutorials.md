@@ -1,5 +1,6 @@
 ## Tutorials
 
+* [Git cheatsheet](http://www.cheetyr.com/git)
 * [How to secure your site in an afternoon](https://www.joshemerson.co.uk/blog/secure-your-site)
 * [Google on Monetization](https://developers.google.com/web/fundamentals/monetization/ads/)
 * [Debugging with Git Bisect](http://www.sitepoint.com/debugging-git-blame-bisect/)
