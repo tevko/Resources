@@ -1,5 +1,6 @@
 ## Showcases
 
+* [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 * [UX Gallery FOR UX DESIGNERS: WIREFRAME TEMPLATES, UI DESIGN PATTERNS & MORE](http://uxporn.uxpin.com/)
 * [Visualising data structures and algorithms through animation](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
 * [All the web development cheat sheets you're looking for](http://creativenauts.me/2014/02/08/cheat-sheet-web-development-design/)
