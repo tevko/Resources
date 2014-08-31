@@ -1,5 +1,6 @@
 ## Tutorials
 
+* [Hosted web apps with google chrome](https://developers.google.com/chrome/apps/docs/developers_guide)
 * [Git cheatsheet](http://www.cheetyr.com/git)
 * [How to secure your site in an afternoon](https://www.joshemerson.co.uk/blog/secure-your-site)
 * [Google on Monetization](https://developers.google.com/web/fundamentals/monetization/ads/)
