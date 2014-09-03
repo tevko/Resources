@@ -1,5 +1,6 @@
 ## CSS - SASS helpers
 
+* [CSS Grid Module Demos](http://gridbyexample.com/)
 * [CSS Shapes editor for chrome](http://razvancaliman.com/writing/css-shapes-editor-chrome/)
 * [One-stop CSS preprocessor reference](http://csspre.com/)
 * [A Flexbox Grid Editor](http://bennettfeely.com/flexplorer/)
