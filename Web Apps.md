@@ -1,5 +1,6 @@
 ## Web Apps
 
+* [Multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io/)
 * [Create, share, and discover API's](https://api.blockspring.com/)
 * [Press a key, get a keyCode!](http://keycod.es/)
 * [One-click, read-only, burner mailboxes](http://slippery.email/)
