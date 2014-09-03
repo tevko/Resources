@@ -1,5 +1,6 @@
 ## Fonts, Typography, & Icons
 
+* [A medium inspired WYSIWYG editor](https://github.com/jdkanani/smalleditor)
 * [A curated list of posts about web typography](https://github.com/charlespeters/type-findings)
 * [Rabiola | Free Font](https://www.behance.net/gallery/18833181/Rabiola-Free-Font)
 * [Icons for Developers](http://devicon.fr/)
