@@ -1,5 +1,6 @@
 ## HTML
 
+* [Standard Markdown Spec](http://jgm.github.io/stmd/spec.html)
 * [Build and Share Web Components](https://ele.io/)
 * [A list of HTML and XHTML elements, past and present](http://w3c.github.io/elements-of-html/)
 * [Simple and Responsive Email Template](http://leemunroe.github.io/html-email-template/email.html)
