@@ -1,5 +1,6 @@
 ## Auto Generators
 
+* [Encrypt files in Git/Mercurial](https://github.com/StackExchange/blackbox)
 * [Gif Countdown - Real time updating countdown with automatic time zone detection.](http://gifcountdown.com/)
 * [Passwords for the Manly Man](http://dfcb.github.io/manly-man-passwords/)
 * [Picksum Ipsum - Movie Lorem Ipsum Text Generator Alternative](http://www.picksumipsum.co.uk/)
