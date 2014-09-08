@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [Powerful authentication and authorization for your apps and APIs](https://auth0.com/pricing)
 * [Static Web Hosting for Developers](http://www.divshot.com/pricing)
 * [Turn websites into structured APIs from your browser in seconds](https://www.kimonolabs.com/pricing)
 * [Use GitHub or Bitbucket and deploy your projects whenever you push to your repository.](http://ftploy.com/pricing)
