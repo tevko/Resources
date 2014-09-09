@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [Build feature-rich HTML 5 single page apps in the cloud](http://www.aerobatic.io/pricing)
 * [Powerful authentication and authorization for your apps and APIs](https://auth0.com/pricing)
 * [Static Web Hosting for Developers](http://www.divshot.com/pricing)
 * [Turn websites into structured APIs from your browser in seconds](https://www.kimonolabs.com/pricing)
