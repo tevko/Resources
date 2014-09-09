@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [https://github.com/julianshapiro/velocity](Accelerated JavaScript animation)
 * [Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
 * [Responsive Charts and Graphs](http://gionkunz.github.io/chartist-js/)
 * [A jQuery plugin to stop the jank of page loads.](https://github.com/miguel-perez/jquery.smoothState.js)
