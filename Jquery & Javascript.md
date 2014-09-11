@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [A client-side Javascript SDK for authenticating with OAuth2 web services and querying their REST API's](http://adodson.com/hello.js/)
 * [Accelerated JavaScript animation](https://github.com/julianshapiro/velocity)
 * [Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
 * [Responsive Charts and Graphs](http://gionkunz.github.io/chartist-js/)
