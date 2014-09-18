@@ -1,5 +1,6 @@
 ## Tutorials
 
+* [Off Canvas Menu Effects](http://tympanus.net/Development/OffCanvasMenuEffects/)
 * [USING SVG TO SHRINK YOUR PNGS](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/)
 * [Minimizing font resources](http://jakearchibald.com/2014/minimising-font-downloads/)
 * [Centering things in CSS Decision Tree](http://css-tricks.com/centering-css-complete-guide/)
