@@ -1,5 +1,6 @@
 ## Performance
 
+* [Understanding & measuring events with Chrome DevTools timeline](http://web-design-weekly.com/2014/09/18/understanding-measuring-events-with-chrome-devtools/)
 * [Perf Tooling Today](http://perf-tooling.today/)
 * [Tutorial from Fillament Group](http://filamentgroup.com/lab/performance-rwd.html)
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
