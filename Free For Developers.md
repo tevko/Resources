@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [Allow your Javascript apps to be crawled perfectly by search engines](https://prerender.io/pricing)
 * [Speech interface for apps and devices](http://api.ai/pricing.html)
 * [Build feature-rich HTML 5 single page apps in the cloud](http://www.aerobatic.io/pricing)
 * [Powerful authentication and authorization for your apps and APIs](https://auth0.com/pricing)
