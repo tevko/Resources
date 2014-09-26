@@ -27,3 +27,4 @@
 * [in a brush](http://inabrush.com/)
 * [type novel](http://typenovel.tumblr.com/)
 * [typesetwith.me - A typography and legibility sandbox](http://typesetwith.me/)
+* [Ready to use SVG icons for the web](http://bbriel.me/svgicons/)
