@@ -6,7 +6,7 @@ for file in *.md; do
 
 		if [[ ! -z "$url" ]]; then
 			echo "- Checking URL: ${url}"
-			curl -s --head "${url}" | head -n 1 | grep "HTTP/1.[01] [^23].."
+			curl -sI "${url}" | grep "HTTP/1.[01] [^23].."
 		fi
 	done <"$file"
 done
