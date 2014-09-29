@@ -1,5 +1,7 @@
 ## Jquery & Javascript
 
+* [A CAD Library for the Web](http://verbnurbs.com/)
+* [2D HTML5 rendering engine for cross-platform game development](http://cutjs.org/)
 * [The missing Javascript smart persistent layer](http://wisembly.github.io/basil.js/)
 * [Quite simply the ideal Image Slider in vanilla JS](http://gilbitron.github.io/Ideal-Image-Slider/)
 * [A client-side Javascript SDK for authenticating with OAuth2 web services and querying their REST API's](http://adodson.com/hello.js/)
