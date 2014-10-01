@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Render 3D scenes into SVG or HTML5 Canvas](http://seenjs.io/)
 * [A CAD Library for the Web](http://verbnurbs.com/)
 * [2D HTML5 rendering engine for cross-platform game development](http://cutjs.org/)
 * [The missing Javascript smart persistent layer](http://wisembly.github.io/basil.js/)
