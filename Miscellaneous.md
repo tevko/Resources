@@ -7,3 +7,5 @@
 * [Parsing HTML at the command line](https://github.com/EricChiang/pup)
 * [Generate random identity objects including name, address, etc. ](http://travishorn.github.io/fake-identity/)
 * [Get a public key, safely, starting just with someone's social media username(s).](https://keybase.io/)
+* [Manipulate PDFs](http://smallpdf.com/)
+* [An offline-first, syncing filesystem for the web and Webmaker](https://github.com/mozilla/makedrive)
