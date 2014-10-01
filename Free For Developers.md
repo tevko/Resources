@@ -23,3 +23,4 @@
 * [Bitnami makes it incredibly easy to deploy apps with native installers, as virtual machines, or in the cloud.](https://bitnami.com/cloud/pricing)
 * [Expertly test & analyze your PHP projects](https://insight.sensiolabs.com/pricing)
 * [Turn your spreadsheets into APIs effortlessly](https://sheetlabs.com/#/pricing)
+* [Hassle-Free Static Websites](http://brace.io/upgrade)
