@@ -24,3 +24,4 @@
 * [Expertly test & analyze your PHP projects](https://insight.sensiolabs.com/pricing)
 * [Turn your spreadsheets into APIs effortlessly](https://sheetlabs.com/#/pricing)
 * [Hassle-Free Static Websites](http://brace.io/upgrade)
+* [Powerful cloud integrations in one place; do what you want with API data](http://hoistapps.com/pricing)
