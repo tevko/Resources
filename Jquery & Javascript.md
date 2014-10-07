@@ -113,3 +113,4 @@
 * [three.js - JavaScript 3D library](http://threejs.org/)
 * [toddmotto-echo](https://github.com/toddmotto/echo)
 * [vex](http://github.hubspot.com/vex/)
+* [Manipulate data from API responses with ease](http://thestorefront.github.io/DataCollection.js/)
