@@ -1,5 +1,6 @@
 ## Tutorials
 
+* [A huge collection of free screencasts for devs](http://devfreecasts.org/)
 * [Tips for Chrome Dev Tools users](http://devtoolstips.com/)
 * [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 * [Off Canvas Menu Effects](http://tympanus.net/Development/OffCanvasMenuEffects/)
