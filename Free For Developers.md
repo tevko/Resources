@@ -25,3 +25,4 @@
 * [Turn your spreadsheets into APIs effortlessly](https://sheetlabs.com/#/pricing)
 * [Hassle-Free Static Websites](http://brace.io/upgrade)
 * [Powerful cloud integrations in one place; do what you want with API data](http://hoistapps.com/pricing)
+* [Share your local websites with any connected device](https://meetfinch.com/plans)
