@@ -81,3 +81,4 @@
 * [flexbox in 5 minutes](http://devbryce.com/site/flexbox/)
 * [oak.is - Animated SVGs- Custom easing and timing](http://oak.is/thinking/animated-svgs/)
 * [requestAnimationFrame for smart animating - Paul Irish](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
+* [Loading WebFonts with performance in mind](http://bdadam.com/blog/loading-webfonts-with-high-performance.html)
