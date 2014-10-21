@@ -9,3 +9,4 @@
 * [Get a public key, safely, starting just with someone's social media username(s).](https://keybase.io/)
 * [Manipulate PDFs](http://smallpdf.com/)
 * [An offline-first, syncing filesystem for the web and Webmaker](https://github.com/mozilla/makedrive)
+* [Generate random identity objects including name, address, etc.](https://github.com/travishorn/fake-identity)
