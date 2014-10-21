@@ -10,3 +10,4 @@
 * [mdo-css-perf](https://github.com/mdo/css-perf)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [WebPagetest - Website Performance and Optimization Test](http://www.webpagetest.org/)
+* [Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage)](https://github.com/alekseykulikov/storage)
