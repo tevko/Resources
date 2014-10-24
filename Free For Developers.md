@@ -26,3 +26,4 @@
 * [Hassle-Free Static Websites](http://brace.io/upgrade)
 * [Powerful cloud integrations in one place; do what you want with API data](http://hoistapps.com/pricing)
 * [Share your local websites with any connected device](https://meetfinch.com/plans)
+* [a hosted API for adding realtime bi-directional functionality to web, mobile apps, or other Internet connected devices](http://pusher.com/signup)
