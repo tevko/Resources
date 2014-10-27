@@ -1,6 +1,7 @@
 ## CSS - SASS helpers
 
 * [All the css cursors](http://chrisnager.github.io/cursors/)
+* [Mastering the :nth-child](http://nthmaster.com/)
 * [Poor Mans Styleguide](https://github.com/bryanbraun/poor-mans-styleguide)
 * [CSS Grid Module Demos](http://gridbyexample.com/)
 * [CSS Shapes editor for chrome](http://razvancaliman.com/writing/css-shapes-editor-chrome/)
