@@ -19,3 +19,4 @@
 * [Share Button Test](http://carrot.github.io/share-button/)
 * [TABLEIZER! -- Spreadsheets to HTML Tables Tool](http://tableizer.journalistopia.com/)
 * [Unicode character table](http://unicode-table.com/en/#0023)
+* [A solution for responsive tables with complex data](http://gergeo.se/RWD-Table-Patterns/)
