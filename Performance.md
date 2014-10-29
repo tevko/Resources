@@ -13,3 +13,4 @@
 * [Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage)](https://github.com/alekseykulikov/storage)
 * [A curated list of Web Performance Optimization. Everyone can contribute here!](https://github.com/davidsonfellipe/awesome-wpo/)
 * [Rich tools for instrumenting, analyzing, and visualizing web apps](http://google.github.io/tracing-framework/)
+* [A simple utility to execute a callback when a webfont loads](https://github.com/zachleat/fontfaceonload)
