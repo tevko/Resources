@@ -14,3 +14,5 @@
 * [A curated list of Web Performance Optimization. Everyone can contribute here!](https://github.com/davidsonfellipe/awesome-wpo/)
 * [Rich tools for instrumenting, analyzing, and visualizing web apps](http://google.github.io/tracing-framework/)
 * [A simple utility to execute a callback when a webfont loads](https://github.com/zachleat/fontfaceonload)
+* [A lightweight, simple DOM utility made to run on a tight budget.](https://github.com/filamentgroup/shoestring)
+* [Filament Group's core tools & workflow for delivering rich cross-device web applications](https://github.com/filamentgroup/southstreet)
