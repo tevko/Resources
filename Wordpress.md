@@ -6,3 +6,5 @@
 * [Enables content editors to embed a tweet into a post as a link. When the user clicks on the link, a twitter window is opened, which allows the user to post the tweet.](https://github.com/tevko/WP-Tweetable-Text)
 * [A tool for experienced frontend performance engineers to take control over the scripts and styles enqueued on their site](https://wordpress.org/plugins/asset-queue-manager/)
 * [A Fully responsive image plugin for wordpress ](https://github.com/tevko/wp-tevko-responsive-images)
+* [Reduce image file sizes and improve performance using the Smush.it API within WordPress](https://wordpress.org/plugins/wp-smushit/)
+* [The only WordPress Performance Optimization (WPO) framework](https://wordpress.org/plugins/w3-total-cache/)
