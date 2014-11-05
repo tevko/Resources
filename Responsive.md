@@ -21,3 +21,4 @@
 * [sindresorhus-pageres](https://github.com/sindresorhus/pageres)
 * [tevko-wp-tevko-responsive-images](https://github.com/tevko/wp-tevko-responsive-images)
 * [Media queries to dynamically load responsive content that is appropriate for different users' browsers](http://foundation.zurb.com/docs/components/interchange.html)
+* [Use analytics data to craete agraphic representing screen resolutions that visit your site](http://viewportify.hawksworx.com/make)
