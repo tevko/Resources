@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Use, test, and learn ES6!](http://www.es6fiddle.net/)
 * [the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 * [A compiler from Go (golang.org) to JavaScript for running Go code in a browser](https://github.com/gopherjs/gopherjs)
 * [Render 3D scenes into SVG or HTML5 Canvas](http://seenjs.io/)
