@@ -28,4 +28,3 @@
 * [Share your local websites with any connected device](https://meetfinch.com/plans)
 * [a hosted API for adding realtime bi-directional functionality to web, mobile apps, or other Internet connected devices](http://pusher.com/signup)
 * [Email hosting for custom domains](https://pawnmail.com/)
-* [Rich email messages made easy](https://beefree.io/index.aspx)
