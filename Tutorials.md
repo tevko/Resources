@@ -1,5 +1,6 @@
 ## Tutorials
 
+* [Getting Git right, with tutorials, news and tips.](https://www.atlassian.com/git/)
 * [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 * [A huge collection of free screencasts for devs](http://devfreecasts.org/)
 * [Tips for Chrome Dev Tools users](http://devtoolstips.com/)
