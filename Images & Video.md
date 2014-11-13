@@ -1,5 +1,6 @@
 ## Images & Video
 
+* [SVG animation tool](http://svgcircus.com/)
 * [1000+ design freebies made by Dribbble users](http://freebbble.com/)
 * [Public Domain Pictures](http://www.picdrome.com/page/gallery)
 * [All of the best free stock photos in one place](http://thestocks.im/)
