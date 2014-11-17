@@ -6,3 +6,4 @@
 * [DiagnostiCSS — Visually detect any potentially invalid or inaccessible HTML markup](http://diagnosticss.github.io/)
 * [Tiniest simplest unit testing library for JavaScript](https://github.com/joewalnes/jstinytest)
 * [Test your front-end against a real API](http://reqr.es/)
+* [Simulating poor network connections so you can build better systems](https://github.com/tylertreat/Comcast)
