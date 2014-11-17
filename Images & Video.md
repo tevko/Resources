@@ -1,5 +1,6 @@
 ## Images & Video
 
+* [SVG - edit](http://svg-edit.googlecode.com/svn/branches/stable/editor/svg-editor.html)
 * [SVG animation tool](http://svgcircus.com/)
 * [1000+ design freebies made by Dribbble users](http://freebbble.com/)
 * [Public Domain Pictures](http://www.picdrome.com/page/gallery)
