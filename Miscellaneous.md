@@ -12,3 +12,4 @@
 * [Generate random identity objects including name, address, etc.](https://github.com/travishorn/fake-identity)
 * [Vagrant - Create a working environment for your favorite stack in one command.](https://vagrantcloud.com/discover/featured)
 * [A web application (game) designed to help you learn SQL](http://missqlcommand.com/)
+* [Website Style Guide Resources](http://styleguides.maban.co.uk/)
