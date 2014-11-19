@@ -17,3 +17,4 @@
 * [A lightweight, simple DOM utility made to run on a tight budget.](https://github.com/filamentgroup/shoestring)
 * [Filament Group's core tools & workflow for delivering rich cross-device web applications](https://github.com/filamentgroup/southstreet)
 * [A Guide to Optimising Website & Application Performance](https://cdnify.com/discover/web-performance-guide)
+* [Find resources that help you build lightning fast websites](http://www.perf.rocks/)
