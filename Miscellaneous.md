@@ -13,3 +13,4 @@
 * [Vagrant - Create a working environment for your favorite stack in one command.](https://vagrantcloud.com/discover/featured)
 * [A web application (game) designed to help you learn SQL](http://missqlcommand.com/)
 * [Website Style Guide Resources](http://styleguides.maban.co.uk/)
+* [An experimental API Search service to help discover APIs on the web](http://apis.io/)
