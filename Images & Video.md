@@ -37,3 +37,4 @@
 * [iconmelon](http://iconmelon.com/#/page-1)
 * [jansepar-picturefill](https://github.com/jansepar/picturefill)
 * [tevko-wp-tevko-responsive-images](https://github.com/tevko/wp-tevko-responsive-images)
+* [The transparency of PNGs for the file size of JPEGs](http://quasimondo.com/ZorroSVG/)
