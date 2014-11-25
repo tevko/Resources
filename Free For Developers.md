@@ -29,3 +29,4 @@
 * [a hosted API for adding realtime bi-directional functionality to web, mobile apps, or other Internet connected devices](http://pusher.com/signup)
 * [Email hosting for custom domains](https://pawnmail.com/)
 * [Shrink PNG files](https://tinypng.com/developers)
+* [The easiest way of adding real-time capabilities to your app](https://www.scaledrone.com/pricing)
