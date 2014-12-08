@@ -1,6 +1,6 @@
 ## CSS - SASS helpers
 
-* [Sass compatibility table](http://hugogiraudel.com/sass-compatibility/)
+* [Sass compatibility table](http://sass-compatibility.github.io/)
 * [All the css cursors](http://chrisnager.github.io/cursors/)
 * [Mastering the :nth-child](http://nthmaster.com/)
 * [Poor Mans Styleguide](https://github.com/bryanbraun/poor-mans-styleguide)
