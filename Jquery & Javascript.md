@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [A small (~0.8 kb minified + gzipped) event delegation library](http://craig.is/riding/gators)
 * [Use, test, and learn ES6!](http://www.es6fiddle.net/)
 * [JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
 * [the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
