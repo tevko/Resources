@@ -1,5 +1,6 @@
 ## CSS - SASS helpers
 
+* [A Sass mixin that helps manipulating media queries in an elegant way](https://github.com/sass-mq/sass-mq)
 * [Sass compatibility table](http://sass-compatibility.github.io/)
 * [All the css cursors](http://chrisnager.github.io/cursors/)
 * [Mastering the :nth-child](http://nthmaster.com/)
