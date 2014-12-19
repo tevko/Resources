@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [Translate your website with one line of code](https://localizejs.com/pricing)
 * [A documentation and developer hub generator made easy](https://readme.io/)
 * [Allow your Javascript apps to be crawled perfectly by search engines](https://prerender.io/pricing)
 * [Speech interface for apps and devices](http://api.ai/pricing.html)
