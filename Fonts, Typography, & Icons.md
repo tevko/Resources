@@ -1,5 +1,6 @@
 ## Fonts, Typography, & Icons
 
+* [Up-to-date data on support for type and typographic features on the web](http://stateofwebtype.com/)
 * [The Ultimate CSS Map Font](http://mapglyphs.com/)
 * [A medium inspired WYSIWYG editor](https://github.com/jdkanani/smalleditor)
 * [A curated list of posts about web typography](https://github.com/charlespeters/type-findings)
