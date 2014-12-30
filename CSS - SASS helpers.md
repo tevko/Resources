@@ -1,5 +1,6 @@
 ## CSS - SASS helpers
 
+* [CSS GRADIENT ANIMATOR](http://www.gradient-animator.com/)
 * [A Sass mixin that helps manipulating media queries in an elegant way](https://github.com/sass-mq/sass-mq)
 * [Sass compatibility table](http://sass-compatibility.github.io/)
 * [All the css cursors](http://chrisnager.github.io/cursors/)
