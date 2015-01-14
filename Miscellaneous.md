@@ -1,5 +1,6 @@
 ##Miscellaneous
 
+* [Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.](https://github.com/nwjs/nw.js)
 * [Name a frontend framework/library/asset/utility to get all of its files, including dependencies](http://frontendfiles.com/)
 * [An awesome list of (large-scale) public datasets on the Internet](https://github.com/caesar0301/awesome-public-datasets)
 * [Open source machine learning server. Create predictive features - personalization, recommendation & content discovery.](http://prediction.io/)
