@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [A Versioning and deployment tool](http://www.springloops.io/#pricing)
 * [Design a working prototype then export production-ready HTML & CSS or share by URL](http://typecast.com/plans)
 * [Translate your website with one line of code](https://localizejs.com/pricing)
 * [A documentation and developer hub generator made easy](https://readme.io/)
