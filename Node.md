@@ -7,3 +7,4 @@
 * [A complete and versatile web scraper.](https://github.com/ruipgil/scraperjs)
 * [Google Cloud Client Library for Node.js](https://github.com/GoogleCloudPlatform/gcloud-node)
 * [A starting point for building a scalable & maintainable Restify REST API](https://github.com/MatthewVita/Restify-Seed)
+* [An NPM Module that teaches you how to work with NPM Modules](https://www.npmjs.com/package/how-to-npm)
