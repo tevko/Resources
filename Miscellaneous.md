@@ -18,3 +18,4 @@
 * [A web application (game) designed to help you learn SQL](http://missqlcommand.com/)
 * [Website Style Guide Resources](http://styleguides.maban.co.uk/)
 * [An experimental API Search service to help discover APIs on the web](http://apis.io/)
+* [Build a blog with Github pages!](https://github.com/HubPress/hubpress.io)
