@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Documentation styleguide for Javascript files](http://usejsdoc.org/)
 * [A simple GUI for generating the selectors needed to access specific JSON data](http://jsonselector.com/)
 * [A small (~0.8 kb minified + gzipped) event delegation library](http://craig.is/riding/gators)
 * [Use, test, and learn ES6!](http://www.es6fiddle.net/)
