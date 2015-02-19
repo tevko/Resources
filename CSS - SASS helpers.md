@@ -1,5 +1,6 @@
 ## CSS - SASS helpers
 
+* [All of Hugo Giraudel's SASS work](https://github.com/HugoGiraudel/awesome-sass/blob/master/README.md)
 * [Coderops CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [CSS GRADIENT ANIMATOR](http://www.gradient-animator.com/)
 * [A Sass mixin that helps manipulating media queries in an elegant way](https://github.com/sass-mq/sass-mq)
