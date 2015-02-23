@@ -1,6 +1,6 @@
 ## Jquery & Javascript
 
-*[A simple autocomplete widget with zero dependencies](http://leaverou.github.io/awesomplete/)
+* [A simple autocomplete widget with zero dependencies](http://leaverou.github.io/awesomplete/)
 * [Documentation styleguide for Javascript files](http://usejsdoc.org/)
 * [A simple GUI for generating the selectors needed to access specific JSON data](http://jsonselector.com/)
 * [A small (~0.8 kb minified + gzipped) event delegation library](http://craig.is/riding/gators)
