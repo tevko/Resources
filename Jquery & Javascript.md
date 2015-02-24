@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [An aggregation of tooling for using ES6 today](https://github.com/addyosmani/es6-tools)
 * [A simple autocomplete widget with zero dependencies](http://leaverou.github.io/awesomplete/)
 * [Documentation styleguide for Javascript files](http://usejsdoc.org/)
 * [A simple GUI for generating the selectors needed to access specific JSON data](http://jsonselector.com/)
