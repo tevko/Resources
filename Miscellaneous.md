@@ -1,5 +1,6 @@
 ##Miscellaneous
 
+* [Maslow’s pyramid of code review](http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review)
 * [A standard for building APIs in JSON](http://jsonapi.org/)
 * [Your own local SMS gateway in Go](https://github.com/haxpax/gosms)
 * [Helpful code snippets from CSS-Tricks](http://css-tricks.com/snippets/html/)
