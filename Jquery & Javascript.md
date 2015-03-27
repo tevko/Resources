@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Download Modernizr 3.0.0-beta](http://v3.modernizr.com/download/)
 * [An aggregation of tooling for using ES6 today](https://github.com/addyosmani/es6-tools)
 * [A simple autocomplete widget with zero dependencies](http://leaverou.github.io/awesomplete/)
 * [Documentation styleguide for Javascript files](http://usejsdoc.org/)
