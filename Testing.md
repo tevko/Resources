@@ -8,3 +8,4 @@
 * [Tiniest simplest unit testing library for JavaScript](https://github.com/joewalnes/jstinytest)
 * [Test your front-end against a real API](http://reqr.es/)
 * [Simulating poor network connections so you can build better systems](https://github.com/tylertreat/Comcast)
+* [Automated code review for Ruby, JS, and PHP](https://codeclimate.com/)
