@@ -10,3 +10,4 @@
 * [Test your front-end against a real API](http://reqr.es/)
 * [Simulating poor network connections so you can build better systems](https://github.com/tylertreat/Comcast)
 * [Automated code review for Ruby, JS, and PHP](https://codeclimate.com/)
+* [Shows which parts of your code aren’t covered by your test suite](https://coveralls.io/)
