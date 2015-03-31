@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [Powerful Continuous Integration and Delivery](https://codeship.com/pricing)
 * [Test local websites across devices and get feedback from your clients through a public URL](https://meetfinch.com/)
 * [A Versioning and deployment tool](http://www.springloops.io/#pricing)
 * [Design a working prototype then export production-ready HTML & CSS or share by URL](http://typecast.com/plans)
