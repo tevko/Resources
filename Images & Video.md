@@ -1,5 +1,6 @@
 ## Images & Video
 
+* [Another list of free images](http://thenuschool.com/free-stock-photos-websites-awesome-list/)
 * [JavaScript library enabling SVG icons to morph from one to the other](http://alexk111.github.io/SVG-Morpheus/)
 * [SVG - edit](http://svg-edit.googlecode.com/svn/branches/stable/editor/svg-editor.html)
 * [SVG animation tool](http://svgcircus.com/)
