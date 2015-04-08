@@ -35,3 +35,4 @@
 * [Email hosting for custom domains](https://pawnmail.com/)
 * [Shrink PNG files](https://tinypng.com/developers)
 * [The easiest way of adding real-time capabilities to your app](https://www.scaledrone.com/pricing)
+* [In the blink of an eye deploy, update and scale your apps and their data in the cloud.](https://scalingo.com)
