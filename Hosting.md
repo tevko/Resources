@@ -4,3 +4,4 @@
 * [Open sourced software CDN](http://osscdn.com/#/)
 * [Getting started with Node: Hosting](https://github.com/joyent/node/wiki/Node-Hosting)
 * [Super Cheep from BlueHost](https://www.bluehost.com/web-hosting/signup)
+* [Affordable Platform as a Service](https://scalingo.com/)
