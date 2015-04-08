@@ -1,5 +1,7 @@
 ## Testing
 
+* [Render any dynamic Javascript webpage to JSON](http://phear.io/)
+* [The world's most simple monitoring service](https://ping.gg/)
 * [Hound comments on style violations in GitHub pull requests](https://houndci.com/)
 * [Monkey testing library for web apps and Node.js](https://github.com/marmelab/gremlins.js)
 * [Gather in-app user feedback for free](https://doorbell.io/)
