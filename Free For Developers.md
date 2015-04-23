@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [ADD SERVERLESS VIDEO CHAT AND DATA TRANSFER TO YOUR SITE](http://icecomm.io/pricing)
 * [Powerful Continuous Integration and Delivery](https://codeship.com/pricing)
 * [Test local websites across devices and get feedback from your clients through a public URL](https://meetfinch.com/)
 * [A Versioning and deployment tool](http://www.springloops.io/#pricing)
