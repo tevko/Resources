@@ -1,5 +1,6 @@
 ## Podcasts
 
+* [letscodejavascript.com](http://www.letscodejavascript.com/)
 * [Shoptalk Show](http://shoptalkshow.com/)
 * [JS-Jabber](http://devchat.tv/js-jabber/)
 * [CodePen Radio](http://blog.codepen.io/radio/)
