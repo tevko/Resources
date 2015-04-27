@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 * [JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers](http://interactjs.io/)
 * [Download Modernizr 3.0.0-beta](http://v3.modernizr.com/download/)
 * [An aggregation of tooling for using ES6 today](https://github.com/addyosmani/es6-tools)
