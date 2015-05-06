@@ -1,5 +1,6 @@
 ## Node
 
+* [Creates an instant yet flexible REST API that binds to any JSON file](https://kriek.co.uk/cantrip/)
 * [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 * [Automated SemVer](https://github.com/boennemann/semantic-release)
 * [Tools and Techniques from Joyent](https://www.joyent.com/developers/node)
