@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [A basic service worker registration example from Google](https://googlechrome.github.io/samples/service-worker/custom-offline-page/index.html)
 * [A React inspired DOM library](https://github.com/Merri/nom)
 * [Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 * [JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers](http://interactjs.io/)
