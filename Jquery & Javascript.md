@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Human-Friendly Web Worker wrapper](https://github.com/steelbrain/Worker-Exchange)
 * [A basic service worker registration example from Google](https://googlechrome.github.io/samples/service-worker/custom-offline-page/index.html)
 * [A React inspired DOM library](https://github.com/Merri/nom)
 * [Build cross platform desktop apps with web technologies](http://electron.atom.io/)
