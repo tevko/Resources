@@ -1,5 +1,6 @@
 ## Testing
 
+* [Feature Tests for JavaScript](https://github.com/getify/es-feature-tests)
 * [Render any dynamic Javascript webpage to JSON](http://phear.io/)
 * [The world's most simple monitoring service](https://ping.gg/)
 * [Hound comments on style violations in GitHub pull requests](https://houndci.com/)
