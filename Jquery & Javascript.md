@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [YOU MIGHT NOT NEED JQUERY PLUGINS](http://davidyezsetz.github.io/you-might-not-need-jquery-plugins/)
 * [Using local storage as a communication channel](https://github.com/krasimir/lsbridge)
 * [Human-Friendly Web Worker wrapper](https://github.com/steelbrain/Worker-Exchange)
 * [A basic service worker registration example from Google](https://googlechrome.github.io/samples/service-worker/custom-offline-page/index.html)
