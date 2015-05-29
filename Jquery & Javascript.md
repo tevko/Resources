@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [YOU MIGHT NOT NEED JQUERY PLUGINS](http://davidyezsetz.github.io/you-might-not-need-jquery-plugins/)
 * [Using local storage as a communication channel](https://github.com/krasimir/lsbridge)
 * [Human-Friendly Web Worker wrapper](https://github.com/steelbrain/Worker-Exchange)
