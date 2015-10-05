@@ -1,5 +1,6 @@
 ## Web Apps
 
+* [Code playground for Ruby, C, C#, Go, Java, Node.js, PHP, Python, Rust, & more](http://rubyplus.biz/)
 * [An SVG Path Builder](http://jxnblk.com/paths/)
 * [SVG Editor / Optimizer](http://petercollingridge.appspot.com/svg-editor/)
 * [Multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io/)
