@@ -1,5 +1,6 @@
 ## Auto Generators
 
+* [Awesome placeholder names](http://jpg.codes/projects/goodbye-john-doe)
 * [Encrypt files in Git/Mercurial](https://github.com/StackExchange/blackbox)
 * [Gif Countdown - Real time updating countdown with automatic time zone detection.](http://gifcountdown.com/)
 * [Passwords for the Manly Man](http://dfcb.github.io/manly-man-passwords/)
