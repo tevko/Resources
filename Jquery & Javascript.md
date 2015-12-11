@@ -1,5 +1,6 @@
 ## Jquery & Javascript
 
+* [A lightweight, unopinionated utility for creating adjustable split views or panes](http://nathancahill.github.io/Split.js/)
 * [Automatically display online/offline indication to your users](https://github.com/HubSpot/offline)
 * [Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [YOU MIGHT NOT NEED JQUERY PLUGINS](http://davidyezsetz.github.io/you-might-not-need-jquery-plugins/)
