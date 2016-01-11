@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [Instantly build and ship code anywhere in one consistent process for your entire team](http://deploybot.com/#pricing)
 * [Resize images on-the-fly using our API](http://rethumb.com/pricing)
 * [Coveralls - Test Coverage History & Statistics](https://coveralls.io/pricing)
 * [Code quality, maintainability, and stability for all of your public and private project repositories.](https://www.bithound.io/pricing)
