@@ -1,5 +1,6 @@
 ## Free For Developers
 
+* [Free Intelligent APIs from Microsoft](https://www.microsoft.com/cognitive-services/en-us/apis)
 * [Instantly build and ship code anywhere in one consistent process for your entire team](http://deploybot.com/#pricing)
 * [Resize images on-the-fly using our API](http://rethumb.com/pricing)
 * [Coveralls - Test Coverage History & Statistics](https://coveralls.io/pricing)
