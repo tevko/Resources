@@ -11,3 +11,4 @@
 * [Reduce image file sizes and improve performance using the Smush.it API within WordPress](https://wordpress.org/plugins/wp-smushit/)
 * [The only WordPress Performance Optimization (WPO) framework](https://wordpress.org/plugins/w3-total-cache/)
 * [THE BEST TESTS FOR WORDPRESS](http://wptest.io/)
+* [Free CDN for Wordpress](https://wordpress.org/plugins/pagecdn/)
