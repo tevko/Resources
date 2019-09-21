@@ -9,3 +9,4 @@
 * [Enter a URL or HTML to test accessibility](http://www.tenon.io/)
 * [Web Accessibility Evaluation Tools List](http://www.w3.org/WAI/ER/tools/)
 * [This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code](http://ffoodd.github.io/a11y.css/)
+* [Where to put buttons on Forms](https://copypalette.netlify.com)
