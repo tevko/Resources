@@ -13,3 +13,4 @@
 * [Hex Color Keys - Color By Hex](http://www.hexcolorkeys.com/)
 * [colors-sass-_variables.scss at master · mrmrs-colors](https://github.com/mrmrs/colors/blob/master/sass/_variables.scss)
 * [press the spacebar to generate colors!](http://coolors.co/fcebd1-ebdbc4-9fc3b5-62aa9f-4d4538)
+* [Monochrome color scheme generator](https://copypalette.netlify.com)
