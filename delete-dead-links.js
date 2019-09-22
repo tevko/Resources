@@ -28,7 +28,7 @@ const child = execFile('./check_dead.sh', [], (error, stdout, stderr) => {
           return console.log(err);
         }
 
-        const result = data.split('\n').filter(l => l.includes(line) === false).join(',');
+        const result = data.split('\n').filter(l => l.includes(line) === false).join('\n,');
       
         fs.writeFile(`./${file}`, result, 'utf8', function (err) {
           if (err) return console.log(err);
