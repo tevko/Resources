@@ -21,7 +21,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: npm install, build, and test
-      env:
-        SLACK_KEY: ${{ secrets.SLACK_KEY }}
       run: |
         node ./delete-dead-links.js
