@@ -22,4 +22,5 @@ jobs:
     - name: yarn install and run dead URL Check
       run: |
         yarn install
+        chmod -R 777 './check_dead.sh'
         node ./delete-dead-links.js

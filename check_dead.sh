@@ -1,5 +1,4 @@
 for file in *.md; do
-	echo "====== Reading file: ${file} ======"
 	while read line; do
 
 		url=$(echo "$line" | sed s/.*\(// | sed s/\)// | sed s/^##.*//)
@@ -7,7 +6,7 @@ for file in *.md; do
 		if [[ ! -z "$url" ]]; then
 			status_code=$(curl -m 10 -s -o /dev/null -w "%{http_code}" $url)
 			if [ $status_code == "000" ] || [ $status_code == "404" ] || [ $status_code == "403" ] || [ $status_code == "400" ]; then
-				echo "${line} ${status_code}"
+				echo "${line}"
 			fi
 		fi
 	done <"$file"
