@@ -1,0 +1,12 @@
+{
+  "name": "Resources",
+  "version": "1.0.0",
+  "main": "delete-dead-links.js",
+  "repository": "git@github.com:tevko/Resources.git",
+  "author": "timevko@gmail.com",
+  "license": "none",
+  "private": false,
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
