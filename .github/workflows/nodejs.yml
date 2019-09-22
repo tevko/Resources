@@ -19,7 +19,7 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: npm install, build, and test
-      run: npm install
+    - name: yarn install and run dead URL Check
       run: |
+        yarn install
         node ./delete-dead-links.js
