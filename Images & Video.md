@@ -1,9 +1,7 @@
 ## Images & Video
-
 * [A lightweight image comparison tool](http://yahoo.github.io/blink-diff/)
 * [Another list of free images](http://thenuschool.com/free-stock-photos-websites-awesome-list/)
 * [JavaScript library enabling SVG icons to morph from one to the other](http://alexk111.github.io/SVG-Morpheus/)
-* [SVG - edit](http://svg-edit.googlecode.com/svn/branches/stable/editor/svg-editor.html)
 * [SVG animation tool](http://svgcircus.com/)
 * [1000+ design freebies made by Dribbble users](http://freebbble.com/)
 * [Public Domain Pictures](http://www.picdrome.com/page/gallery)
@@ -24,7 +22,6 @@
 * [Cockos Incorporated - LICEcap](http://www.cockos.com/licecap/)
 * [Fantastic Shoppe Fronts - Some people collect stamps, others (old) store fronts.](http://fantasticshoppefronts.tumblr.com/)
 * [Fleurs Coiffeur Liqueur](http://fleurscoiffeur.com/)
-* [Fluidbox (v1.3) - CodePen](http://codepen.io/terrymun/full/JKHwp)
 * [Gratisography- Free, use as you please, high-resolution pictures.](http://www.gratisography.com/)
 * [Iconogen - Favicon, Windows 8 Tiles, Apple Touch Icon and iOS7 Icon Generator](http://iconogen.com/)
 * [Little Visuals - Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them anyway you want.](http://littlevisuals.co/)
@@ -32,9 +29,7 @@
 * [Makeappicon - Generate app icons of all sizes in a click!](http://makeappicon.com/#)
 * [New Old Stock](http://nos.twnsnd.co/)
 * [Noise Texture Generator v2.1](http://www.noisetexturegenerator.com/)
-* [Premium Flat Social Icon Set](http://jamiepeak.co.uk/premium_flat_social_icon_set/)
 * [ReSRC - Responsive images on demand, direct from the cloud](http://www.resrc.it/)
-* [SVG-encoder - CodePen](http://codepen.io/yoksel/full/JDqvs)
 * [Unsplash](http://unsplash.com/)
 * [Web Interface · Kraken.io](https://kraken.io/web-interface)
 * [iconmelon](http://iconmelon.com/#/page-1)

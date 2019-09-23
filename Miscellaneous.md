@@ -1,5 +1,4 @@
 ##Miscellaneous
-
 * [If this, then: code.](http://hoist.io/)
 * [Contracts for Developers and Designers](https://www.hellobonsai.com/)
 * [Open Source W3C tools](https://www.w3.org/developers/tools)
@@ -11,11 +10,8 @@
 * [Your own local SMS gateway in Go](https://github.com/haxpax/gosms)
 * [Helpful code snippets from CSS-Tricks](http://css-tricks.com/snippets/html/)
 * [Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.](https://github.com/nwjs/nw.js)
-* [Name a frontend framework/library/asset/utility to get all of its files, including dependencies](http://frontendfiles.com/)
 * [An awesome list of (large-scale) public datasets on the Internet](https://github.com/caesar0301/awesome-public-datasets)
 * [Open source machine learning server. Create predictive features - personalization, recommendation & content discovery.](http://prediction.io/)
-* [A GUI for auto-generating your gulpfile](http://gulpfiction.divshot.io/)
-* [Adobe Web Platform](http://webplatform.adobe.com/)
 * [APIs from the New York Times](http://developer.nytimes.com/docs)
 * [Parsing HTML at the command line](https://github.com/EricChiang/pup)
 * [Generate random identity objects including name, address, etc. ](http://travishorn.github.io/fake-identity/)
@@ -24,7 +20,6 @@
 * [An offline-first, syncing filesystem for the web and Webmaker](https://github.com/mozilla/makedrive)
 * [Generate random identity objects including name, address, etc.](https://github.com/travishorn/fake-identity)
 * [Vagrant - Create a working environment for your favorite stack in one command.](https://vagrantcloud.com/discover/featured)
-* [A web application (game) designed to help you learn SQL](http://missqlcommand.com/)
 * [Website Style Guide Resources](http://styleguides.maban.co.uk/)
 * [An experimental API Search service to help discover APIs on the web](http://apis.io/)
 * [Build a blog with Github pages!](https://github.com/HubPress/hubpress.io)

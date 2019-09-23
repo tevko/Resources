@@ -1,6 +1,4 @@
 ## Web Apps
-
-* [Code playground for Ruby, C, C#, Go, Java, Node.js, PHP, Python, Rust, & more](http://rubyplus.biz/)
 * [An SVG Path Builder](http://jxnblk.com/paths/)
 * [SVG Editor / Optimizer](http://petercollingridge.appspot.com/svg-editor/)
 * [Multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io/)
@@ -40,11 +38,9 @@
 * [Pricing - Codio](https://codio.com/s/pricing/)
 * [RegExr- Learn, Build, & Test RegEx](http://regexr.com/)
 * [Silvrback](https://www.silvrback.com/)
-* [Simple PX to EMS Converter - CodePen](http://codepen.io/auginator/full/nbksy)
 * [StatusPage.io - Hosted Status Pages for Your Company](https://www.statuspage.io/)
 * [TABLEIZER! -- Spreadsheets to HTML Tables Tool](http://tableizer.journalistopia.com/)
 * [Temper - Find out how your customers feel about every aspect of your business](https://temper.io/)
-* [Test Responsive Web Design With Our Free Tool - Dimensions App](http://www.dimensionsapp.com/)
 * [The world's easiest CMS for designers - Cloud Cannon](http://cloudcannon.com/)
 * [Tools - Intel® Developer Zone](http://software.intel.com/en-us/html5/tools)
 * [Typing Lessons - typing.io](http://typing.io/lessons)
@@ -52,4 +48,7 @@
 * [localForage by mozilla](http://mozilla.github.io/localForage/)
 * [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)
 * [sMAILs - simple EMAIL styling - by @florianguenther](http://smails.herokuapp.com/)
+rokuapp.com/)
+* [Realtime dashboards for your website](https://www.thedash.com/)
+rokuapp.com/)
 * [Realtime dashboards for your website](https://www.thedash.com/)

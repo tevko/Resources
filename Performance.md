@@ -1,5 +1,4 @@
 ## Performance
-
 * [Javascript-based HTML compressor/minifier (with Node.js support)](https://github.com/kangax/html-minifier)
 * [Free online test to help speeding up heavy web pages](http://yellowlab.tools/)
 * [What Does My Site Cost?](http://whatdoesmysitecost.com/)

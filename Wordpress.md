@@ -1,5 +1,4 @@
 ## Wordpress
-
 * [Vagrant Box Meant specifically for WP development](https://github.com/Varying-Vagrant-Vagrants/VVV)
 * [Free WordPress Test Site](http://qsandbox.com/app/)
 * [Wordpress Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/)

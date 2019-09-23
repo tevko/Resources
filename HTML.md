@@ -1,16 +1,12 @@
 ## HTML
-
 * [Rich email messages made easy - at no cost](https://beefree.io/)
-* [Standard Markdown Spec](http://jgm.github.io/stmd/spec.html)
 * [Build and Share Web Components](https://ele.io/)
 * [A list of HTML and XHTML elements, past and present](http://w3c.github.io/elements-of-html/)
-* [Simple and Responsive Email Template](http://leemunroe.github.io/html-email-template/email.html)
 * [Custom form elements used to be difficult](http://wtfforms.com/)
 * [Test HTML emails for FREE](http://putsmail.com/)
 * [A place to discuss and evolve web component best-practices](http://webcomponents.org/)
 * [ResponsiveComments. - A client side solution to conditional loading in Responsive Web Design](http://responsivecomments.com/)
 * [Animatron](http://animatron.com/)
-* [CSS Inliner Tool - MailChimp Labs](http://beaker.mailchimp.com/inline-css)
 * [CSS inliner - Campaign Monitor](http://inliner.cm/)
 * [Character Codes -- HTML Codes, Hexadecimal Codes & HTML Names](http://character-code.com/)
 * [Entity Lookup](http://entity-lookup.leftlogic.com/)

@@ -1,5 +1,4 @@
 ## Cross Browser & Fallbacks
-
 * [Polyfill service](https://cdn.polyfill.io/v1/)
 * [The Newest and Coolest stuff happening in Chrome](http://www.chromestatus.com/features)
 * [Browserhacks](http://browserhacks.com/)

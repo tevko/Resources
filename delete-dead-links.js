@@ -21,7 +21,7 @@ const child = execFile('./check_dead.sh', [], (error, stdout, stderr) => {
   }
   console.log(stderr);
   
-  stdout.split('\n').filter(Boolean).forEach(line => {
+  // stdout.split('\n').filter(Boolean).forEach(line => {
     FILES.forEach(file => {
       fs.readFile(`./${file}`, 'utf8', function (err,data) {
         if (err) {
@@ -29,14 +29,14 @@ const child = execFile('./check_dead.sh', [], (error, stdout, stderr) => {
         }
 
         const result = data.split('\n').filter(l => {
-          console.log(l,line, l.includes(line), line.includes(l));
-          return l.includes(line) === false
+          // console.log(l,line, l.includes(line), line.includes(l));
+          return stdout.includes(l) === false
         }).join('\n');
-      
+        console.log(result);
         fs.writeFile(`./${file}`, result, 'utf8', function (err) {
           if (err) return console.log(err);
         });
       });
     });
-  });
+  // });
 });

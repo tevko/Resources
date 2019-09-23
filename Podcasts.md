@@ -1,5 +1,4 @@
 ## Podcasts
-
 * [Another Podcast About Front-End Development & Web Design](https://viewsourc.es/)
 * [letscodejavascript.com](http://www.letscodejavascript.com/)
 * [Shoptalk Show](http://shoptalkshow.com/)

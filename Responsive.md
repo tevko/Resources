@@ -1,18 +1,13 @@
 ## Responsive
-
 * [Free device detection](http://wurfl.io/)
 * [A group of plugins for responsive tables](https://github.com/filamentgroup/tablesaw)
 * [Conditional Media Query Mixins - CSS-Tricks](http://css-tricks.com/conditional-media-query-mixins/)
 * [Ink- A Responsive Email Framework from ZURB](http://zurb.com/ink/)
-* [MQtest.io — A simple tool to help identify which media queries your device responds to.](http://mqtest.io/)
 * [Making Embedded Content Work In Responsive Design - Smashing Mobile](http://mobile.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/?utm_source=Responsive+Design+Weekly&utm_campaign=c9014bde4d-Responsive_Design_Weekly_98&utm_medium=email&utm_term=0_df65b6d7c8-c9014bde4d-59002865)
 * [Palm Reader — What media queries can my device see right now-](http://www.jordanm.co.uk/palmreader)
 * [Pizza Pie Charts - Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
 * [Quick Start Guide - WebPagetest Documentation](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/quick-start-quide)
-* [Responsive HTML email- 9-step in-depth walkthrough from scratch](http://rmion.com/responsive-html-email/?utm_source=CSS-Weekly&utm_campaign=Issue-100&utm_medium=email)
 * [Responsive tables](http://gergeo.se/RWD-Table-Patterns/)
-* [Simple PX to EMS Converter - CodePen](http://codepen.io/auginator/full/nbksy)
-* [URLCAP (BETA)](http://url-cap.com/)
 * [filamentgroup-Ajax-Include-Pattern](https://github.com/filamentgroup/Ajax-Include-Pattern/)
 * [imazen-slimmage](https://github.com/imazen/slimmage)
 * [madgex-lazy-ads](https://github.com/madgex/lazy-ads?utm_source=Responsive+Design+Weekly&utm_campaign=c9014bde4d-Responsive_Design_Weekly_98&utm_medium=email&utm_term=0_df65b6d7c8-c9014bde4d-59002865)
