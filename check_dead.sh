@@ -1,3 +1,4 @@
+#!/bin/bash
 for file in *.md; do
 	while read line; do
 

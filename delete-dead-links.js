@@ -32,7 +32,7 @@ const child = execFile('./check_dead.sh', [], (error, stdout, stderr) => {
           // console.log(l,line, l.includes(line), line.includes(l));
           return stdout.includes(l) === false
         }).join('\n');
-        console.log(result);
+
         fs.writeFile(`./${file}`, result, 'utf8', function (err) {
           if (err) return console.log(err);
         });
