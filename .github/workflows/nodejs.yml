@@ -24,3 +24,8 @@ jobs:
         yarn install
         chmod -R 777 './check_dead.sh'
         node ./delete-dead-links.js
+    - name: commit file changes back to repo
+      uses: elstudio/actions-js-build/commit@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PUSH_BRANCH: 'master'

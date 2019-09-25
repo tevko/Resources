@@ -1,9 +1,3 @@
-// const shell = require('shelljs');
-// shell.exec('./check_dead.sh', function(code, stdout, stderr) {
-//   console.log('Exit code:', code);
-//   console.log('Program output:', stdout);
-//   console.log('Program stderr:', stderr);
-// });
 const fs = require('fs');
 const { execFile } = require('child_process');
 
@@ -21,22 +15,19 @@ const child = execFile('./check_dead.sh', [], (error, stdout, stderr) => {
   }
   console.log(stderr);
   
-  // stdout.split('\n').filter(Boolean).forEach(line => {
-    FILES.forEach(file => {
-      fs.readFile(`./${file}`, 'utf8', function (err,data) {
-        if (err) {
-          return console.log(err);
-        }
+  FILES.forEach(file => {
+    fs.readFile(`./${file}`, 'utf8', function (err,data) {
+      if (err) {
+        return console.log(err);
+      }
 
-        const result = data.split('\n').filter(l => {
-          // console.log(l,line, l.includes(line), line.includes(l));
-          return stdout.includes(l) === false
-        }).join('\n');
+      const result = data.split('\n').filter(l => {
+        return stdout.includes(l) === false
+      }).join('\n');
 
-        fs.writeFile(`./${file}`, result, 'utf8', function (err) {
-          if (err) return console.log(err);
-        });
+      fs.writeFile(`./${file}`, result, 'utf8', function (err) {
+        if (err) return console.log(err);
       });
     });
-  // });
+  });
 });
