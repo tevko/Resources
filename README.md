@@ -1,4 +1,4 @@
-## What this is
+## What is this?
 A collection helpful resources for software development on the web, split into various categories.
 
 ## Is there a searchable front end to make finding stuff more easier?
