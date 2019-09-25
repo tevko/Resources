@@ -1,5 +1,5 @@
 ## Podcasts
-* [Another Podcast About Front-End Development & Web Design](https://viewsourc.es/)
+* [The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler](https://undefined.fm/)
 * [letscodejavascript.com](http://www.letscodejavascript.com/)
 * [Shoptalk Show](http://shoptalkshow.com/)
 * [JS-Jabber](http://devchat.tv/js-jabber/)
