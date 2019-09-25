@@ -31,7 +31,6 @@
 * [Animate SVG Icons with CSS3 & jQuery - Pencil Scoop - Design & Creative Blog](http://www.pencilscoop.com/2013/11/animate-svg-icons-with-css3-jquery/)
 * [Avoiding anonymous JavaScript functions](http://toddmotto.com/avoiding-anonymous-javascript-functions/)
 * [Bento - Learn how to code](http://www.bentobox.io/)
-* [Bytesize News - A weekly news update focused on the tech, design and development industries. It's the news you need to know.](http://bytesizenews.co/)
 * [CodeCombat](http://codecombat.com/)
 * [Compressive Images - Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/rwd_img_compression/)
 * [Creating a -Meet The Team- Page in WordPress - CSS-Tricks](http://css-tricks.com/creating-meet-team-page-wordpress/)
