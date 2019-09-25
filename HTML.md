@@ -1,6 +1,5 @@
 ## HTML
 * [Rich email messages made easy - at no cost](https://beefree.io/)
-* [Build and Share Web Components](https://ele.io/)
 * [A list of HTML and XHTML elements, past and present](http://w3c.github.io/elements-of-html/)
 * [Custom form elements used to be difficult](http://wtfforms.com/)
 * [Test HTML emails for FREE](http://putsmail.com/)

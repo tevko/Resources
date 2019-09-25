@@ -47,8 +47,5 @@
 * [embedresponsively.com](http://embedresponsively.com/)
 * [localForage by mozilla](http://mozilla.github.io/localForage/)
 * [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)
-* [sMAILs - simple EMAIL styling - by @florianguenther](http://smails.herokuapp.com/)
-rokuapp.com/)
 * [Realtime dashboards for your website](https://www.thedash.com/)
-rokuapp.com/)
 * [Realtime dashboards for your website](https://www.thedash.com/)
