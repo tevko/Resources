@@ -7,7 +7,6 @@
 * [ResponsiveComments. - A client side solution to conditional loading in Responsive Web Design](http://responsivecomments.com/)
 * [Animatron](http://animatron.com/)
 * [CSS inliner - Campaign Monitor](http://inliner.cm/)
-* [Character Codes -- HTML Codes, Hexadecimal Codes & HTML Names](http://character-code.com/)
 * [Entity Lookup](http://entity-lookup.leftlogic.com/)
 * [HTMLHint](http://htmlhint.com/)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
