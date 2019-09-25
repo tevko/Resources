@@ -1,2 +1,8 @@
-Just a bunch of links that may help make your full stack software project go a tad bit smoother. New links added every now and then
-To use, Fork, download, and search things like 'animation' or 'javascript'.
+## What this is
+A collection helpful resources for software development on the web, split into various categories.
+
+## Is there a searchable front end to make finding stuff more easier?
+Coming soon.
+
+## How is this updated and maintained?
+This repo uses Github Actions to automatically check dead URLs and remove them from the repository. Anyone can contribute via pull request.
