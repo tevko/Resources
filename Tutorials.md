@@ -5,7 +5,6 @@
 * [Getting Git right, with tutorials, news and tips.](https://www.atlassian.com/git/)
 * [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 * [A huge collection of free screencasts for devs](http://devfreecasts.org/)
-* [Tips for Chrome Dev Tools users](http://devtoolstips.com/)
 * [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 * [Off Canvas Menu Effects](http://tympanus.net/Development/OffCanvasMenuEffects/)
 * [USING SVG TO SHRINK YOUR PNGS](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/)

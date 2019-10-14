@@ -3,7 +3,6 @@
 * [BackgroundCheck](http://www.kennethcachia.com/background-check/)
 * [CSS Colours - A list of colour names in CSS](http://colours.neilorangepeel.com/)
 * [Color Scheme Designer 3](http://colorschemedesigner.com/)
-* [Color Template](http://www.rocket-design.fr/color-template/)
 * [Colorgorize the Web](http://www.colorgorize.com/)
 * [Colorsublime](http://colorsublime.com/)
 * [Colourco.de - find your colour scheme](http://colourco.de/)
