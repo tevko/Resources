@@ -37,7 +37,6 @@
 * [CSS Modal - Modals built out of pure CSS](http://drublic.github.io/css-modal/#!)
 * [CSS Values - CSS Reference, Properties and Values, CSS3](http://cssvalues.com/)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
-* [CSS3 Multi Column Layout Generator](http://www.aaronlumsden.com/multicol/)
 * [CSS3 PIE- CSS3 decorations for IE](http://css3pie.com/)
 * [CSSFlow · CSS Code Snippets & UI Kits for Web Developers](http://www.cssflow.com/)
 * [CSSynth](http://bennettfeely.com/cssynth/)

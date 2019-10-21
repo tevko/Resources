@@ -4,7 +4,6 @@
 * [Multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io/)
 * [Create, share, and discover API's](https://api.blockspring.com/)
 * [Press a key, get a keyCode!](http://keycod.es/)
-* [One-click, read-only, burner mailboxes](http://slippery.email/)
 * [Manipulate PDFs](http://smallpdf.com/)
 * [It's an app store for algorithms](http://algorithmia.com/)
 * [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
