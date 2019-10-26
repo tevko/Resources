@@ -47,4 +47,4 @@
 * [localForage by mozilla](http://mozilla.github.io/localForage/)
 * [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)
 * [Realtime dashboards for your website](https://www.thedash.com/)
-* [Realtime dashboards for your website](https://www.thedash.com/)
+* [Quick disposable email addresses](https://maildrop.cc/)
