@@ -67,7 +67,6 @@
 * [JavascriptOO.com](http://www.javascriptoo.com/)
 * [KineticJS HTML5 Canvas Framework](http://kineticjs.com/)
 * [List.js - Search, sort, filters, flexibility to tables, list and more!](http://listjs.com/)
-* [MEAN.io - A Fullstack Javascript Framework](http://www.mean.io/#!/)
 * [Magnifier.js demo](http://mark-rolich.github.io/Magnifier.js/)
 * [Mozilla Labs - TogetherJS](https://togetherjs.com/)
 * [OJ - Unified Templating](http://ojjs.org/)

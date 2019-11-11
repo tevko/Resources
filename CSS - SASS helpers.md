@@ -63,6 +63,5 @@
 * [danielguillan-modernizr-mixin](https://github.com/danielguillan/modernizr-mixin)
 * [devatrox-Sunglass · GitHub](https://github.com/devatrox/Sunglass)
 * [ericam-susy](https://github.com/ericam/susy/)
-* [extractCSS - Online CSS Extractor](http://extractcss.com/)
 * [h5bp-Effeckt.css](https://github.com/h5bp/Effeckt.css)
 * [kneath-kss](https://github.com/kneath/kss)
