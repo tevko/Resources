@@ -1,5 +1,4 @@
 ## Tutorials
-* [Service Worker Cookbook from Mozilla](https://serviceworke.rs/index.html)
 * [Common git screwups/questions and solutions](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Alert Dialogs with Codrops](http://tympanus.net/Development/DialogEffects/)
 * [Getting Git right, with tutorials, news and tips.](https://www.atlassian.com/git/)
