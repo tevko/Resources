@@ -1,5 +1,4 @@
 ## Colors
-* [Muted color generator](http://fifty2project.com/muted/)
 * [BackgroundCheck](http://www.kennethcachia.com/background-check/)
 * [CSS Colours - A list of colour names in CSS](http://colours.neilorangepeel.com/)
 * [Color Scheme Designer 3](http://colorschemedesigner.com/)
