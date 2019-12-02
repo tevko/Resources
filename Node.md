@@ -1,7 +1,6 @@
 ## Node
 * [Comparing NPM (dev) Dependencies](http://npm.click/#/)
 * [Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
-* [Automated SemVer](https://github.com/boennemann/semantic-release)
 * [Tools and Techniques from Joyent](https://www.joyent.com/developers/node)
 * [Curated List of great node resources](https://github.com/sindresorhus/awesome-nodejs)
 * [Monitors your clipboard and runs scripts based on its content](https://github.com/FGRibreau/dot-clipboard)
