@@ -93,7 +93,6 @@
 * [favico.js - Make a use of your favicon](http://lab.ejci.net/favico.js/)
 * [filamentgroup-Southstreet](https://github.com/filamentgroup/Southstreet?utm_source=Responsive+Design+Weekly&utm_campaign=b6383193ca-Responsive_Design_Weekly_767&utm_medium=email&utm_term=0_df65b6d7c8-b6383193ca-59002865)
 * [goldfire-howler.js](https://github.com/goldfire/howler.js)
-* [intention.js](http://intentionjs.com/)
 * [jonathantneal-http-client-hints](https://github.com/jonathantneal/http-client-hints?utm_source=Responsive+Design+Weekly&utm_campaign=f70e8515d8-Responsive_Design_Weekly_78&utm_medium=email&utm_term=0_df65b6d7c8-f70e8515d8-59002865)
 * [jsPDF - HTML5 PDF Generator - Parallax](http://parall.ax/products/jspdf)
 * [mnmly-select-switch](https://github.com/mnmly/select-switch/)
