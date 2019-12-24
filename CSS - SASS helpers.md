@@ -65,3 +65,4 @@
 * [ericam-susy](https://github.com/ericam/susy/)
 * [h5bp-Effeckt.css](https://github.com/h5bp/Effeckt.css)
 * [kneath-kss](https://github.com/kneath/kss)
+* [Smooth Box Shadow Generator](https://brumm.af/shadows)
