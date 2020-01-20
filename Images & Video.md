@@ -10,7 +10,6 @@
 * [Put a ScreenCap on a variety of devices](http://frame.lab25.co.uk/)
 * [Free Curated Stock Photos](http://www.raumrot.com/10/)
 * [Free Stock Video](http://mazwai.com/)
-* [All free high-quality photos on one site](http://www.pexels.com/)
 * [License Free, High Quality Photos](http://skitterphoto.com)
 * [Free monthly photos for all your creative needs.](http://deathtothestockphoto.com/)
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
