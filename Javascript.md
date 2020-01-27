@@ -22,7 +22,6 @@
 * [A compiler from Go (golang.org) to JavaScript for running Go code in a browser](https://github.com/gopherjs/gopherjs)
 * [Render 3D scenes into SVG or HTML5 Canvas](http://seenjs.io/)
 * [A CAD Library for the Web](http://verbnurbs.com/)
-* [2D HTML5 rendering engine for cross-platform game development](http://cutjs.org/)
 * [The missing Javascript smart persistent layer](http://wisembly.github.io/basil.js/)
 * [A client-side Javascript SDK for authenticating with OAuth2 web services and querying their REST API's](http://adodson.com/hello.js/)
 * [Accelerated JavaScript animation](https://github.com/julianshapiro/velocity)
