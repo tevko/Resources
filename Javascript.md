@@ -39,7 +39,6 @@
 * [Load CSS asunchronously](https://github.com/filamentgroup/loadCSS/)
 * [D3.js is a JavaScript library for manipulating documents based on data.](http://d3js.org/)
 * [Tappy! - a lightweight normalized tap event.](https://github.com/filamentgroup/tappy)
-* [MotorCortex makes web animations easy](http://motorcortexjs.com/#)
 * [CSS Shapes Polyfill](https://github.com/adobe-webplatform/css-shapes-polyfill)
 * [Easy unit testing with Jest](http://facebook.github.io/jest/index.html)
 * [What's new in ES6](https://github.com/lukehoban/es6features)

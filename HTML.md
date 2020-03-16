@@ -11,6 +11,5 @@
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 * [Share Button Test](http://carrot.github.io/share-button/)
 * [TABLEIZER! -- Spreadsheets to HTML Tables Tool](http://tableizer.journalistopia.com/)
-* [Unicode character table](http://unicode-table.com/en/#0023)
 * [A solution for responsive tables with complex data](http://gergeo.se/RWD-Table-Patterns/)
 * [A list of everything that can go in your Document's HEAD](https://htmlhead.dev/)
