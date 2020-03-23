@@ -1,6 +1,5 @@
 ## Cross Browser & Fallbacks
 * [Polyfill service](https://cdn.polyfill.io/v1/)
-* [The Newest and Coolest stuff happening in Chrome](http://www.chromestatus.com/features)
 * [Browserhacks](http://browserhacks.com/)
 * [Chromium Switches](http://kurtextrem.github.io/ChromiumFlags/?utm_source=html5weekly&utm_medium=email)
 * [IE NetRenderer - Browser Compatibility Check -](http://netrenderer.com/)
