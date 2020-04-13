@@ -3,7 +3,6 @@
 * [CSS Colours - A list of colour names in CSS](http://colours.neilorangepeel.com/)
 * [Color Scheme Designer 3](http://colorschemedesigner.com/)
 * [Colorgorize the Web](http://www.colorgorize.com/)
-* [Colorsublime](http://colorsublime.com/)
 * [Colourco.de - find your colour scheme](http://colourco.de/)
 * [Flat Surface Shader](http://wagerfield.github.io/flat-surface-shader/)
 * [Flat UI Colors](http://flatuicolors.com/)

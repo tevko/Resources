@@ -9,7 +9,6 @@
 * [Minimizing font resources](http://jakearchibald.com/2014/minimising-font-downloads/)
 * [Centering things in CSS Decision Tree](http://css-tricks.com/centering-css-complete-guide/)
 * [Hosted web apps with google chrome](https://developers.google.com/chrome/apps/docs/developers_guide)
-* [Git cheatsheet](http://www.cheetyr.com/git)
 * [How to secure your site in an afternoon](https://www.joshemerson.co.uk/blog/secure-your-site)
 * [Debugging with Git Bisect](http://www.sitepoint.com/debugging-git-blame-bisect/)
 * [all about SVG](http://css-tricks.com/mega-list-svg-information/)
