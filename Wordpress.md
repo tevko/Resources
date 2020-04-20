@@ -1,6 +1,5 @@
 ## Wordpress
 * [Vagrant Box Meant specifically for WP development](https://github.com/Varying-Vagrant-Vagrants/VVV)
-* [Free WordPress Test Site](http://qsandbox.com/app/)
 * [Wordpress Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/)
 * [Access your site's data through an easy-to-use HTTP REST API.](http://wordpress.org/plugins/json-rest-api/)
 * [WordPress Hosting & Managed WordPress Hosting - WP Engine](http://wpengine.com/)
