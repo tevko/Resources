@@ -66,7 +66,6 @@
 * [WebGL With Three.js- Basics - Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/webgl-with-three-js-basics/)
 * [WebPlatform Docs · WebPlatform Docs · WPD · WebPlatform.org](http://docs.webplatform.org/wiki/Main_Page)
 * [dypsilon-frontend-dev-bookmarks · GitHub](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [flexbox in 5 minutes](http://devbryce.com/site/flexbox/)
 * [oak.is - Animated SVGs- Custom easing and timing](http://oak.is/thinking/animated-svgs/)
 * [requestAnimationFrame for smart animating - Paul Irish](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 * [Loading WebFonts with performance in mind](http://bdadam.com/blog/loading-webfonts-with-high-performance.html)
