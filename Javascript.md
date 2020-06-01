@@ -1,6 +1,5 @@
 ## Javascript
 * [A state-of-the-Art javascript CDN - First to use brotli-11 compression by default](https://pagecdn.com/lib)
-* [A Subresource Integrity Hash Generator](https://www.srihash.org/)
 * [Automatically display online/offline indication to your users](https://github.com/HubSpot/offline)
 * [Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [YOU MIGHT NOT NEED JQUERY PLUGINS](http://davidyezsetz.github.io/you-might-not-need-jquery-plugins/)
