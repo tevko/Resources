@@ -34,7 +34,6 @@
 * [dc.js - Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
 * [A highly modular, loosely coupled, non-frameworky framework for building advanced JavaScript apps.](http://ampersandjs.com/)
 * [VERY FAST APP DEVELOPMENT](http://hood.ie/)
-* [A JavaScript library for Google Analytics](http://boba.space150.com/)
 * [Load CSS asunchronously](https://github.com/filamentgroup/loadCSS/)
 * [D3.js is a JavaScript library for manipulating documents based on data.](http://d3js.org/)
 * [Tappy! - a lightweight normalized tap event.](https://github.com/filamentgroup/tappy)
