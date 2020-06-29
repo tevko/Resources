@@ -47,7 +47,6 @@
 * [Detector [BETA] - combined browser- & feature-detection for your app](http://detector.dmolsen.com/)
 * [DocumentCloud's VisualSearch.js](http://documentcloud.github.io/visualsearch/)
 * [Drawingboard.js- a simple canvas based drawing app that you can integrate easily on your website.](http://leimi.github.io/drawingboard.js/)
-* [Easily create stunning animated charts with Chart.js - Webdesigner Depot](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 * [Ember.js - About](http://emberjs.com/)
 * [FileAPI — a set of javascript tools for working with files.](http://mailru.github.io/FileAPI/)
 * [Fit.js » Fit things into other things](http://soulwire.github.io/fit.js/)
