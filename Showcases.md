@@ -13,7 +13,6 @@
 * [Free Vector Maps - Royalty-Free Vector Maps](https://www.freevectormaps.com/)
 * [Niice. A search engine with taste.](http://www.niice.co/)
 * [Plunker - Explore](http://plnkr.co/)
-* [Side Projects](http://sideprojects.web3canvas.com/)
 * [The Evolution of the Web](http://www.evolutionoftheweb.com/)
 * [Workshop - Chrome Experiments](http://workshop.chromeexperiments.com/)
 * [httpster.net](http://httpster.net/)
