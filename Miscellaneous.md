@@ -23,3 +23,4 @@
 * [An experimental API Search service to help discover APIs on the web](http://apis.io/)
 * [Build a blog with Github pages!](https://github.com/HubPress/hubpress.io)
 * [CodePen for native app development on Android & iOS](https://snack.expo.io/)
+* [A simple JSON poker API for calculating the winning hand in a game of Texas hold 'em](https://www.pokerapi.dev/)
