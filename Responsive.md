@@ -6,7 +6,6 @@
 * [Making Embedded Content Work In Responsive Design - Smashing Mobile](http://mobile.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/?utm_source=Responsive+Design+Weekly&utm_campaign=c9014bde4d-Responsive_Design_Weekly_98&utm_medium=email&utm_term=0_df65b6d7c8-c9014bde4d-59002865)
 * [Palm Reader — What media queries can my device see right now-](http://www.jordanm.co.uk/palmreader)
 * [Pizza Pie Charts - Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
-* [Quick Start Guide - WebPagetest Documentation](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/quick-start-quide)
 * [Responsive tables](http://gergeo.se/RWD-Table-Patterns/)
 * [filamentgroup-Ajax-Include-Pattern](https://github.com/filamentgroup/Ajax-Include-Pattern/)
 * [imazen-slimmage](https://github.com/imazen/slimmage)

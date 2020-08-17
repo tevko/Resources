@@ -19,7 +19,6 @@
 * [Web Data Extraction Made Easy](https://import.io/pricing)
 * [THE WORLD'S MOST POWERFUL WEB IDE](https://codio.com/s/pricing/)
 * [Deploy your apps from GitHub, Bitbucket or your own repositories to one or many servers in one click.](http://dploy.io/)
-* [Custom Analytics for your Site or App](https://keen.io/pricing)
 * [Let Travis CI take care of running your tests and deploying your apps.](https://travis-ci.com/plans)
 * [Build Realtime IoT Apps that Scale](http://www.pubnub.com/pricing/)
 * [Enterprise Grade Two-Factor Authentication](https://www.authy.com/developer/pricing)
