@@ -35,7 +35,6 @@
 * [CSS Values - CSS Reference, Properties and Values, CSS3](http://cssvalues.com/)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 * [CSS3 PIE- CSS3 decorations for IE](http://css3pie.com/)
-* [CSSFlow · CSS Code Snippets & UI Kits for Web Developers](http://www.cssflow.com/)
 * [CSSynth](http://bennettfeely.com/cssynth/)
 * [Call-to-Action Button Generator - Design buttons & download as CSS PNG](http://buttonoptimizer.com/)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
