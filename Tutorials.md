@@ -47,7 +47,6 @@
 * [Preprocessing SVGs for the Web in 3 automated steps](http://tavendo.com/blog/post/preprocessing-svgs-for-the-web/?utm_source=CSS-Weekly&utm_campaign=Issue-91&utm_medium=email)
 * [Recordit- Record screencasts fast & free! with GIF Support!](http://recordit.co/)
 * [Responsive Deliverables - daverupert.com](http://daverupert.com/2013/04/responsive-deliverables/)
-* [Responsive Design Knowledge Hub](http://www.ugurus.com/responsive-design)
 * [Responsive Dynamic-Height Sticky Footers](http://blog.mojotech.com/responsive-dynamic-height-sticky-footers/)
 * [Responsive Images with Apropos](http://corner.squareup.com/2013/08/responsive-images-with-apropos.html)
 * [Responsive Web Design Resources - This Is Responsive](http://bradfrost.github.io/this-is-responsive/resources.html)
