@@ -4,7 +4,6 @@
 * [JavaScript library enabling SVG icons to morph from one to the other](http://alexk111.github.io/SVG-Morpheus/)
 * [SVG animation tool](http://svgcircus.com/)
 * [1000+ design freebies made by Dribbble users](http://freebbble.com/)
-* [Public Domain Pictures](http://www.picdrome.com/page/gallery)
 * [All of the best free stock photos in one place](http://thestocks.im/)
 * [Free Workplace Stock photos](http://startupstockphotos.com/)
 * [Put a ScreenCap on a variety of devices](http://frame.lab25.co.uk/)
