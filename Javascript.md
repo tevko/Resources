@@ -65,7 +65,6 @@
 * [Mozilla Labs - TogetherJS](https://togetherjs.com/)
 * [OJ - Unified Templating](http://ojjs.org/)
 * [Offline.js – Handle your users losing their internet connection like a pro](http://github.hubspot.com/offline/docs/welcome/)
-* [PACE — Automatic page load progress bars](http://github.hubspot.com/pace/docs/welcome/)
 * [Pizza Pie Charts - Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
 * [Planetary.js- Awesome interactive globes for the web](http://planetaryjs.com/)
 * [QuestionMark.js](http://www.impressivewebs.com/demo-files/question-mark-js/)
