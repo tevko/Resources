@@ -52,7 +52,6 @@
 * [Responsive Web Design Resources - This Is Responsive](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [Shape Hover Effect with SVG - Demo 3](http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index3.html)
 * [Snugug-north](https://github.com/snugug/north)
-* [The Ginger Project — Show your story](http://www.getginger.co/)
 * [The Pastry Box Project - 8 October 2013, baked by Oli Studholme](http://the-pastry-box-project.net/oli-studholme/2013-october-8/)
 * [The Web Platform- Browser technologies](http://platform.html5.org/)
 * [Thinkful - A Guide To Using Github Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/start/new-project/user-page/)

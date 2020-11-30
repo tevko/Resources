@@ -24,7 +24,6 @@
 * [Little Visuals - Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them anyway you want.](http://littlevisuals.co/)
 * [Magnifier.js demo](http://mark-rolich.github.io/Magnifier.js/)
 * [Makeappicon - Generate app icons of all sizes in a click!](http://makeappicon.com/#)
-* [New Old Stock](http://nos.twnsnd.co/)
 * [Noise Texture Generator v2.1](http://www.noisetexturegenerator.com/)
 * [ReSRC - Responsive images on demand, direct from the cloud](http://www.resrc.it/)
 * [Unsplash](http://unsplash.com/)
