@@ -3,7 +3,6 @@
 * [Detect the language of text](https://github.com/wooorm/franc)
 * [THE SECTION 508 COMPLIANT RESPONSIVE FRAMEWORK FOR FRONT-END DEVELOPMENT](http://assets.cms.gov/resources/framework/3.0/Pages/)
 * [Screen reader compatibility for a variety of form, image and link labeling techniques](http://www.powermapper.com/tests/screen-readers/labelling/)
-* [Enter a URL or HTML to test accessibility](http://www.tenon.io/)
 * [Web Accessibility Evaluation Tools List](http://www.w3.org/WAI/ER/tools/)
 * [This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code](http://ffoodd.github.io/a11y.css/)
 * [Where to put buttons on Forms](https://copypalette.netlify.com)
