@@ -49,7 +49,6 @@
 * [SassMeister - The Sass Playground!](http://sassmeister.com/)
 * [Scut](http://davidtheclark.github.io/scut/#main)
 * [Simptip- a simple CSS tooltip made with Sass](http://arashm.net/lab/simptip/)
-* [CSS Text Shadow Generator](https://css3gen.com/text-shadow/)
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [Tridiv - CSS 3D Editor](http://tridiv.com/)
 * [atMedia.info - CSS Media Query Generator](http://atmedia.info/)
