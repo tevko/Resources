@@ -4,6 +4,5 @@
 * [Animatron](http://animatron.com/)
 * [CSS3 Keyframes Animation Generator](http://cssanimate.com/)
 * [GSAP- Professional-Grade HTML5 Animation « GreenSock](http://www.greensock.com/gsap-js/)
-* [WOW.js - Reveal Animations When You Scroll. Very Animate.css Friend.](http://mynameismatthieu.com/WOW/)
 * [Minimalistic animation library in javascript](http://daniel-lundin.github.io/snabbt.js/)
 * [React renderer for Threejs (web and react-native)](https://github.com/react-spring/react-three-fiber)
