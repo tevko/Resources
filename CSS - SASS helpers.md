@@ -29,7 +29,6 @@
 * [CSS Explain](http://josh.github.io/css-explain/)
 * [CSS Filters Demo](http://bennettfeely.com/filters/)
 * [CSS Modal - Modals built out of pure CSS](http://drublic.github.io/css-modal/#!)
-* [CSS Values - CSS Reference, Properties and Values, CSS3](http://cssvalues.com/)
 * [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
 * [CSS3 PIE- CSS3 decorations for IE](http://css3pie.com/)
 * [CSSynth](http://bennettfeely.com/cssynth/)
