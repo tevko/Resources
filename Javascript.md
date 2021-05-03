@@ -78,7 +78,6 @@
 * [annyang! Easily add speech recognition to your site](https://www.talater.com/annyang/)
 * [bostrt-wordcount.js](https://github.com/bostrt/wordcount.js)
 * [cdnjs - the missing cdn for javascript and css](http://cdnjs.com/)
-* [cujoJS- Javascript architectural toolkit](http://cujojs.com/)
 * [eligrey-FileSaver.js](https://github.com/eligrey/FileSaver.js)
 * [favico.js - Make a use of your favicon](http://lab.ejci.net/favico.js/)
 * [filamentgroup-Southstreet](https://github.com/filamentgroup/Southstreet?utm_source=Responsive+Design+Weekly&utm_campaign=b6383193ca-Responsive_Design_Weekly_767&utm_medium=email&utm_term=0_df65b6d7c8-b6383193ca-59002865)
