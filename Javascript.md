@@ -72,7 +72,6 @@
 * [Testing.](http://mintchaos.github.io/flippant.js/)
 * [Unison.js](http://bjork24.github.io/Unison/?utm_source=CSS-Weekly&utm_campaign=Issue-90&utm_medium=email)
 * [Voix JS Component](http://pazguille.github.io/voix/)
-* [WebCode](http://www.webcodeapp.com/)
 * [Welcome - Polymer](http://www.polymer-project.org/)
 * [[be]lazy.js -- A lazy loading and multi-serving image script](http://dinbror.dk/blazy/)
 * [annyang! Easily add speech recognition to your site](https://www.talater.com/annyang/)
