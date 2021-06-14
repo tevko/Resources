@@ -1,7 +1,6 @@
 ## Boilerplates & Frameworks
 * [Helping you select an MV* framework](http://todomvc.com/)
 * [Home - Clank](http://getclank.com/)
-* [Hoodie](http://hood.ie/)
 * [Ink- A Responsive Email Framework from ZURB](http://zurb.com/ink/)
 * [Simple version control for designers - LayerVault](https://layervault.com/)
 * [Stylify Me - Online Style Guide Generator](http://stylifyme.com/)
