@@ -44,7 +44,6 @@
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [OverAPI.com - Collecting all the cheat sheets](http://overapi.com/)
 * [Performance Calendar » The Runtime Performance Checklist](http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/)
-* [Preprocessing SVGs for the Web in 3 automated steps](http://tavendo.com/blog/post/preprocessing-svgs-for-the-web/?utm_source=CSS-Weekly&utm_campaign=Issue-91&utm_medium=email)
 * [Recordit- Record screencasts fast & free! with GIF Support!](http://recordit.co/)
 * [Responsive Deliverables - daverupert.com](http://daverupert.com/2013/04/responsive-deliverables/)
 * [Responsive Dynamic-Height Sticky Footers](http://blog.mojotech.com/responsive-dynamic-height-sticky-footers/)
