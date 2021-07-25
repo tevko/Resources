@@ -1,7 +1,7 @@
 ## CSS - SASS helpers
 * [API for emscripted libsass to run in the browser](https://github.com/medialize/sass.js)
 * [A grid system from CSS-Wizardry](https://github.com/csswizardry/csswizardry-grids)
-* [All of Hugo Giraudel's SASS work](https://github.com/HugoGiraudel/awesome-sass/blob/master/README.md)
+* [All of Kitty Giraudel's SASS work](https://github.com/KittyGiraudel/awesome-sass/blob/master/README.md)
 * [Coderops CSS Reference](http://tympanus.net/codrops/css_reference/)
 * [CSS GRADIENT ANIMATOR](http://www.gradient-animator.com/)
 * [A Sass mixin that helps manipulating media queries in an elegant way](https://github.com/sass-mq/sass-mq)
