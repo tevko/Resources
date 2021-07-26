@@ -6,7 +6,6 @@
 * [CSS GRADIENT ANIMATOR](http://www.gradient-animator.com/)
 * [A Sass mixin that helps manipulating media queries in an elegant way](https://github.com/sass-mq/sass-mq)
 * [All the css cursors](http://chrisnager.github.io/cursors/)
-* [Mastering the :nth-child](http://nthmaster.com/)
 * [Poor Mans Styleguide](https://github.com/bryanbraun/poor-mans-styleguide)
 * [CSS Grid Module Demos](http://gridbyexample.com/)
 * [CSS Shapes editor for chrome](http://razvancaliman.com/writing/css-shapes-editor-chrome/)
