@@ -8,7 +8,6 @@
 * [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
 * [HTML5 Clientless Remote Desktop](http://guac-dev.org/)
 * [Create API's for your Python, Ruby, and R scripts, so you can call them via HTTP. No server setup required.](https://api.blockspring.com/)
-* [Write PHP Online](http://writecodeonline.com/php/)
 * [Be your own webhost](https://yunohost.org/#/)
 * [Web Speech API components](http://zenorocha.github.io/voice-elements/)
 * [Unicode Character Recognition](http://shapecatcher.com/)
