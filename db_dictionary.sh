@@ -7,4 +7,4 @@ for eachfile in $files
 do
   JSstring+="'$eachfile',"
 done
-echo "const files = ["$JSstring"];"  >> ./db/dictionary.js
+echo "export default const files = ["$JSstring"];"  >> ./db/dictionary.js
