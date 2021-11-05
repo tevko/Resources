@@ -3,7 +3,7 @@ const { execFile } = require('child_process');
 
 let FILES;
 
-fs.readdir('./', (err, files) => {
+fs.readdir('./db', (err, files) => {
   if (err) console.log(err);
 
   FILES = files.filter(n => n.includes('.md'));
