@@ -10,7 +10,7 @@ await Promise.all(promises)
   .then(texts => texts.forEach(t => {
     const reg = /(?:##) (.+)/g;
     const title = reg.exec(t)[1];
-    search_struct[title] = t;
+    search_struct[title] = t.split(/\r?\n/);
   }));
 
 loading = false;
