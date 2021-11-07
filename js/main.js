@@ -23,7 +23,7 @@ const debounce = cb => {
   }, 250);
 };
 
-const search = () => console.log('running');
+const search = () => () => console.log('running');
 
 document.querySelector('input').addEventListener('input', e => {
   debounce(search(e.target.value));
