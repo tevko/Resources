@@ -26,7 +26,7 @@ const debounce = cb => {
 const search = (val) => () => {
   let resultsPage = '';
   search_dict.forEach(key => {
-    if (key.indexOf(val)) {
+    if (key.indexOf(val) !== -1) {
       // search is for broad term, include whole page
       resultsPage += search_struct[key].join('\n')
     } else {
