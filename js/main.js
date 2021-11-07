@@ -20,7 +20,7 @@ const debounce = cb => {
   clearTimeout(window.CURRENT_SEARCH_REQUEST);
   window.CURRENT_SEARCH_REQUEST = setTimeout(() => {
     cb();
-  }, 250);
+  }, 800);
 };
 
 const search = () => () => console.log('running');
