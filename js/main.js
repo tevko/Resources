@@ -23,7 +23,20 @@ const debounce = cb => {
   }, 800);
 };
 
-const search = () => () => console.log('running');
+const search = (val) => () => {
+  let resultsPage = '';
+  search_dict.forEach(key => {
+    if (key.indexOf(val)) {
+      // search is for broad term, include whole page
+      resultsPage += search_struct[key].join('\n')
+    } else {
+      const arr = search_struct[key];
+      const found = arr.find(e => e.indexOf(val) !== -1);
+      if (found) resultsPage += `${found} \n`;
+    }
+  });
+  console.log(resultsPage)
+};
 
 document.querySelector('input').addEventListener('input', e => {
   debounce(search(e.target.value));
