@@ -24,18 +24,20 @@ const debounce = cb => {
 };
 
 const search = (val) => () => {
-  let resultsPage = '';
-  search_dict.forEach(key => {
-    if (key.indexOf(val) !== -1) {
-      // search is for broad term, include whole page
-      resultsPage += search_struct[key].join('\n')
-    } else {
-      const arr = search_struct[key];
-      const found = arr.find(e => e.indexOf(val) !== -1);
-      if (found) resultsPage += `${found} \n`;
-    }
-  });
-  console.log(resultsPage)
+  if (val && val.trim().length > 0) {
+    let resultsPage = '';
+    search_dict.forEach(key => {
+      if (key.indexOf(val) !== -1) {
+        // search is for broad term, include whole page
+        resultsPage += search_struct[key].join('\n')
+      } else {
+        const arr = search_struct[key];
+        const found = arr.find(e => e.indexOf(val) !== -1);
+        if (found) resultsPage += `${found} \n`;
+      }
+    });
+    console.log(resultsPage)
+  }
 };
 
 document.querySelector('input').addEventListener('input', e => {
