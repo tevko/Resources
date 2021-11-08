@@ -44,3 +44,4 @@
 * [localForage by mozilla](http://mozilla.github.io/localForage/)
 * [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)
 * [Quick disposable email addresses](https://maildrop.cc/)
+* [Choose the right package every time, without the hassle](https://openbase.com/)
