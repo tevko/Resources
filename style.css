@@ -1,0 +1,11 @@
+:root {
+  --main: #7788AA;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--main);
+}
