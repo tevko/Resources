@@ -15,6 +15,7 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
+  flex-direction: column;
 }
 
 input {
@@ -24,3 +25,5 @@ input {
   min-width: 300px;
   color: var(--primaryDark);
 }
+
+.searchResultsContainer {}

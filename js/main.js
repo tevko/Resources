@@ -24,6 +24,7 @@ const debounce = cb => {
 };
 
 const search = (val) => () => {
+  if (document.querySelector('.searchResultsContainer')) document.querySelector('.searchResultsContainer').remove();
   if (val && val.trim().length > 0) {
     let resultsPage = '';
     search_dict.forEach(key => {
@@ -37,6 +38,7 @@ const search = (val) => () => {
       }
     });
     const container = document.createElement('div');
+    container.classList.add('searchResultsContainer');
     resultsPage.split('\n').filter(Boolean).forEach(l => {
       const p = document.createElement('p');
       p.innerHTML = l;
