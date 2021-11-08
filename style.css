@@ -1,5 +1,7 @@
 :root {
-  --main: #7788AA;
+  --primaryColor: #7788AA;
+  --primaryDark: #2D4471;
+  --secondaryColor: #FFEDCC;
 }
 
 * {
@@ -7,5 +9,18 @@
 }
 
 body {
-  background-color: var(--main);
+  background-color: var(--primaryColor);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+input {
+  border: 0;
+  padding: 1em;
+  width: 30%;
+  min-width: 300px;
+  color: var(--primaryDark);
 }

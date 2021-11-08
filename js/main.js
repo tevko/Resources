@@ -36,7 +36,13 @@ const search = (val) => () => {
         if (found) resultsPage += `${found} \n`;
       }
     });
-    console.log(resultsPage)
+    const container = document.createElement('div');
+    resultsPage.split('\n').filter(Boolean).forEach(l => {
+      const p = document.createElement('p');
+      p.innerHTML = l;
+      container.appendChild(p);
+    });
+    document.body.appendChild(container);
   }
 };
 
