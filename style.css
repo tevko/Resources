@@ -27,4 +27,10 @@ input {
   color: var(--primaryDark);
 }
 
+p {
+  font-weight: bold;
+  font-size: 1.5em;
+  color: var(--secondaryColor);
+}
+
 .searchResultsContainer {}
