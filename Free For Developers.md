@@ -11,7 +11,6 @@
 * [A documentation and developer hub generator made easy](https://readme.io/)
 * [Allow your Javascript apps to be crawled perfectly by search engines](https://prerender.io/pricing)
 * [Speech interface for apps and devices](http://api.ai/pricing.html)
-* [Build feature-rich HTML 5 single page apps in the cloud](http://www.aerobatic.io/pricing)
 * [Powerful authentication and authorization for your apps and APIs](https://auth0.com/pricing)
 * [Static Web Hosting for Developers](http://www.divshot.com/pricing)
 * [The easiest way to add great search to your website](https://swiftype.com/pricing)
