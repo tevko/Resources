@@ -19,6 +19,11 @@ body {
   flex-direction: column;
 }
 
+h3 {
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+
 input {
   margin-top: 1em;
   border: 0;
