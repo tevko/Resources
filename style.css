@@ -1,7 +1,7 @@
 :root {
-  --primaryColor: #7788AA;
-  --primaryDark: #2D4471;
-  --secondaryColor: #FFEDCC;
+  --primaryColor: #E1F2FE;
+  --primaryDark: #49392C;
+  --secondaryColor: #98D2EB;
 }
 
 * {
@@ -20,6 +20,7 @@ body {
 }
 
 input {
+  margin-top: 1em;
   border: 0;
   padding: 1em;
   width: 30%;
@@ -33,4 +34,6 @@ p {
   color: var(--secondaryColor);
 }
 
-.searchResultsContainer {}
+.searchResultsContainer {
+  max-width: 90vw;
+}
