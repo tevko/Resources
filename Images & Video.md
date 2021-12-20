@@ -28,7 +28,6 @@
 * [ReSRC - Responsive images on demand, direct from the cloud](http://www.resrc.it/)
 * [Unsplash](http://unsplash.com/)
 * [Web Interface · Kraken.io](https://kraken.io/web-interface)
-* [iconmelon](http://iconmelon.com/#/page-1)
 * [jansepar-picturefill](https://github.com/jansepar/picturefill)
 * [tevko-wp-tevko-responsive-images](https://github.com/tevko/wp-tevko-responsive-images)
 * [Compress Images in the Browser](https://squoosh.app/)
