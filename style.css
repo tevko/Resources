@@ -1,7 +1,9 @@
 :root {
   --primaryColor: #E1F2FE;
   --primaryDark: #98D2EB;
-  --secondaryColor: #49392C
+  --secondaryColor: #49392C;
+  --highlight: gold;
+  --toasted: #2a4a4a;
 }
 
 * {
@@ -41,4 +43,14 @@ p {
 
 .searchResultsContainer {
   max-width: 90vw;
+}
+
+a {
+  text-decoration: none;
+  color: var(--toasted);
+  transition: .1s color linear;
+}
+
+a:hover {
+  color: var(--highlight);
 }

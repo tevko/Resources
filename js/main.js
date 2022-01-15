@@ -34,7 +34,7 @@ const search = (val) => () => {
       } else {
         const arr = search_struct[key];
         const found = arr.find(e => e.toUpperCase().indexOf(val.toUpperCase()) !== -1);
-        if (found) resultsPage += `${found} \n`;
+        if (found) resultsPage += `\n ${found} \n`;
       }
     });
     const container = document.createElement('div');
