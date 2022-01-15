@@ -28,12 +28,12 @@ const search = (val) => () => {
   if (val && val.trim().length > 0) {
     let resultsPage = '';
     search_dict.forEach(key => {
-      if (key.indexOf(val) !== -1) {
+      if (key.toUpperCase().indexOf(val.toUpperCase()) !== -1) {
         // search is for broad term, include whole page
         resultsPage += search_struct[key].join('\n')
       } else {
         const arr = search_struct[key];
-        const found = arr.find(e => e.indexOf(val) !== -1);
+        const found = arr.find(e => e.toUpperCase().indexOf(val.toUpperCase()) !== -1);
         if (found) resultsPage += `${found} \n`;
       }
     });
@@ -41,7 +41,7 @@ const search = (val) => () => {
     container.classList.add('searchResultsContainer');
     resultsPage.split('\n').filter(Boolean).forEach(l => {
       const p = document.createElement('p');
-      p.innerHTML = l;
+      p.innerHTML = marked.parse(l);
       container.appendChild(p);
     });
     document.body.appendChild(container);
