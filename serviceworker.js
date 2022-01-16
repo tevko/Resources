@@ -16,7 +16,7 @@ const urlsToCache = [
   'https://raw.githubusercontent.com/tevko/Resources/master/CSS-SASSHelpers.md',
   'https://raw.githubusercontent.com/tevko/Resources/master/DevOps.md',
   'https://raw.githubusercontent.com/tevko/Resources/master/FontsTypography&Icons.md',
-  'https://github.com/tevko/Resources/blob/master/FreeForDevelopers.md',
+  'https://raw.githubusercontent.com/tevko/Resources/master/FreeForDevelopers.md',
   'https://raw.githubusercontent.com/tevko/Resources/master/Hosting.md',
   'https://raw.githubusercontent.com/tevko/Resources/master/HTML.md',
   'https://raw.githubusercontent.com/tevko/Resources/master/Images&Video.md',
