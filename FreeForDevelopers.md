@@ -29,3 +29,4 @@
 * [Bring your own source control web publishing CDN](https://surge.sh/pricing)
 * [Add forms to static sites](http://formspree.io/) 
 * [Materio Free Vuetify Vuejs Admin Template](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template/)
+* [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://www.trackawesomelist.com/ripienaar/free-for-dev/)
