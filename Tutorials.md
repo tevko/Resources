@@ -46,7 +46,6 @@
 * [Performance Calendar » The Runtime Performance Checklist](http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/)
 * [Recordit- Record screencasts fast & free! with GIF Support!](http://recordit.co/)
 * [Responsive Deliverables - daverupert.com](http://daverupert.com/2013/04/responsive-deliverables/)
-* [Responsive Dynamic-Height Sticky Footers](http://blog.mojotech.com/responsive-dynamic-height-sticky-footers/)
 * [Responsive Images with Apropos](http://corner.squareup.com/2013/08/responsive-images-with-apropos.html)
 * [Responsive Web Design Resources - This Is Responsive](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [Shape Hover Effect with SVG - Demo 3](http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index3.html)
