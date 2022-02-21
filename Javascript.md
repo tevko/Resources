@@ -11,7 +11,6 @@
 * [JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers](http://interactjs.io/)
 * [An aggregation of tooling for using ES6 today](https://github.com/addyosmani/es6-tools)
 * [A simple autocomplete widget with zero dependencies](http://leaverou.github.io/awesomplete/)
-* [Documentation styleguide for Javascript files](http://usejsdoc.org/)
 * [A simple GUI for generating the selectors needed to access specific JSON data](http://jsonselector.com/)
 * [A small (~0.8 kb minified + gzipped) event delegation library](http://craig.is/riding/gators)
 * [Use, test, and learn ES6!](http://www.es6fiddle.net/)
