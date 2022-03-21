@@ -30,7 +30,6 @@
 * [Playground from ZURB - Design tools and creative experiments](http://zurb.com/playground)
 * [Practice Your Skills!](http://tevko.github.io/practice/)
 * [Pricing - Codio](https://codio.com/s/pricing/)
-* [RegExr- Learn, Build, & Test RegEx](http://regexr.com/)
 * [Silvrback](https://www.silvrback.com/)
 * [StatusPage.io - Hosted Status Pages for Your Company](https://www.statuspage.io/)
 * [TABLEIZER! -- Spreadsheets to HTML Tables Tool](http://tableizer.journalistopia.com/)

@@ -19,7 +19,6 @@
 * [An offline-first, syncing filesystem for the web and Webmaker](https://github.com/mozilla/makedrive)
 * [Generate random identity objects including name, address, etc.](https://github.com/travishorn/fake-identity)
 * [Vagrant - Create a working environment for your favorite stack in one command.](https://vagrantcloud.com/discover/featured)
-* [Website Style Guide Resources](http://styleguides.maban.co.uk/)
 * [Build a blog with Github pages!](https://github.com/HubPress/hubpress.io)
 * [CodePen for native app development on Android & iOS](https://snack.expo.io/)
 * [A simple JSON poker API for calculating the winning hand in a game of Texas hold 'em](https://www.pokerapi.dev/)
