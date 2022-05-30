@@ -14,7 +14,6 @@
 * [Paste in CSS, get back shorthand](http://shrthnd.volume7.io/)
 * [Performance Metrics on CSS properties](http://csstriggers.com/)
 * [Above the fold inline CSS plugin](https://github.com/addyosmani/critical)
-* [Create tasty CSS3 powered animations in no time. ](http://bouncejs.com/)
 * [Adds OpenType features—ligatures, kerning, and more—to Normalize.css](https://github.com/kennethormandy/normalize-opentype.css)
 * [simple flexible grid](https://github.com/dope/lemonade)
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
