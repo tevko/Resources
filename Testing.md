@@ -10,3 +10,4 @@
 * [Simulating poor network connections so you can build better systems](https://github.com/tylertreat/Comcast)
 * [Automated code review for Ruby, JS, and PHP](https://codeclimate.com/)
 * [Shows which parts of your code aren’t covered by your test suite](https://coveralls.io/)
+* [A beginner’s guide to Cypress end-to-end testing](https://www.codementor.io/events/writing-e2e-tests-with-cypress-a-beginner-s-guide-dw9j0grr37)

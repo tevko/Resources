@@ -31,3 +31,4 @@
 * [Materio Free Vuetify Vuejs Admin Template](https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template/)
 * [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://www.trackawesomelist.com/ripienaar/free-for-dev/)
 * [Sneat Free Bootstrap HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/)
+* [Year round developer events to attend and host](https://www.codementor.io/events)
