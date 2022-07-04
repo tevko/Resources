@@ -39,7 +39,6 @@
 * [How To Not Suck Online](http://howtonotsuckonline.com/)
 * [Interchange - Foundation Docs](http://foundation.zurb.com/docs/components/interchange.html)
 * [LukeW - An Event Apart- SVG is for Everybody](http://www.lukew.com/ff/entry.asp?1859)
-* [Making Embedded Content Work In Responsive Design - Smashing Mobile](http://mobile.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/?utm_source=Responsive+Design+Weekly&utm_campaign=c9014bde4d-Responsive_Design_Weekly_98&utm_medium=email&utm_term=0_df65b6d7c8-c9014bde4d-59002865)
 * [Manipulating Classes Using The classList API - Treehouse Blog](http://blog.teamtreehouse.com/manipulating-classes-using-classlist-api?utm_source=rss&utm_medium=rss&utm_campaign=manipulating-classes-using-classlist-api&utm_reader=feedly)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [OverAPI.com - Collecting all the cheat sheets](http://overapi.com/)
