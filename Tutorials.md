@@ -24,7 +24,6 @@
 * [A Visual Guide to Sass & Compass Color Functions - Jackie Balzer](http://jackiebalzer.com/color)
 * [An interactive video intro to flexbox](http://www.sketchingwithcss.com/flexbox/)
 * [An introduction to SVG animation - Big Bite Creative](http://bigbitecreative.com/introduction-svg-animation/?utm_source=CSS-Weekly&utm_campaign=Issue-87&utm_medium=email)
-* [Animate SVG Icons with CSS3 & jQuery - Pencil Scoop - Design & Creative Blog](http://www.pencilscoop.com/2013/11/animate-svg-icons-with-css3-jquery/)
 * [Avoiding anonymous JavaScript functions](http://toddmotto.com/avoiding-anonymous-javascript-functions/)
 * [Bento - Learn how to code](http://www.bentobox.io/)
 * [CodeCombat](http://codecombat.com/)
