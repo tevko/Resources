@@ -1,5 +1,4 @@
 ## Fonts, Typography, & Icons
-* [2 steps easier webfonts for developers](https://pagecdn.com/lib/easyfonts)
 * [PhotoShop script to list fonts used in a PSD](https://github.com/iamdarrenhall/list-fonts)
 * [Up-to-date data on support for type and typographic features on the web](http://stateofwebtype.com/)
 * [A medium inspired WYSIWYG editor](https://github.com/jdkanani/smalleditor)
