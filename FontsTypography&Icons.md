@@ -7,7 +7,6 @@
 * [Born Free Typeface - A mediterranean typeface - Carlos de Toro - Graphic design and Typography - Carlos de Toro - Diseño gráfico y tipografía - Barcelona y Logroño](http://www.carlosdetoro.com/born-en/)
 * [Brick. Webfonts that actually look good.](http://brick.im/)
 * [Firefox OS Typeface — Mozilla Style Guide — mozilla.org](http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
-* [Iconic- Advanced icons for the modern web](http://useiconic.com/)
 * [Latest typography samples - Typ.io](http://www.typ.io/latest)
 * [Norwester - A Font by Jamie Wilson](http://jamiewilson.io/norwester/)
 * [SMALLICONS — BIG SET OFF SMALL ICONS](http://smallicons.net/)
