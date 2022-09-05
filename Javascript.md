@@ -63,7 +63,6 @@
 * [Planetary.js- Awesome interactive globes for the web](http://planetaryjs.com/)
 * [Snap.svg API Reference](http://snapsvg.io/docs/)
 * [So you need a template engine..](http://garann.github.io/template-chooser/)
-* [Stellar.js](http://markdalgleish.com/projects/stellar.js/)
 * [Testing.](http://mintchaos.github.io/flippant.js/)
 * [Unison.js](http://bjork24.github.io/Unison/?utm_source=CSS-Weekly&utm_campaign=Issue-90&utm_medium=email)
 * [Voix JS Component](http://pazguille.github.io/voix/)
