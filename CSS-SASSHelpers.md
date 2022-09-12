@@ -31,7 +31,6 @@
 * [CSSynth](http://bennettfeely.com/cssynth/)
 * [Call-to-Action Button Generator - Design buttons & download as CSS PNG](http://buttonoptimizer.com/)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
-* [Compile Compass into CSS](http://c2c.briangonzalez.org/)
 * [Flexbox Grid](http://flexboxgrid.com/)
 * [Guide to CSS support in email - Campaign Monitor](http://www.campaignmonitor.com/css/)
 * [Jeet Grid System - Smart CSS preprocessor grids](http://jeet.gs/)
