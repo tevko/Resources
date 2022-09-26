@@ -35,7 +35,6 @@
 * [TABLEIZER! -- Spreadsheets to HTML Tables Tool](http://tableizer.journalistopia.com/)
 * [Temper - Find out how your customers feel about every aspect of your business](https://temper.io/)
 * [The world's easiest CMS for designers - Cloud Cannon](http://cloudcannon.com/)
-* [Tools - Intel® Developer Zone](http://software.intel.com/en-us/html5/tools)
 * [Typing Lessons - typing.io](http://typing.io/lessons)
 * [embedresponsively.com](http://embedresponsively.com/)
 * [localForage by mozilla](http://mozilla.github.io/localForage/)
