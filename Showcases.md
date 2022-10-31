@@ -1,6 +1,5 @@
 ## Showcases
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
-* [UX Gallery FOR UX DESIGNERS: WIREFRAME TEMPLATES, UI DESIGN PATTERNS & MORE](http://uxporn.uxpin.com/)
 * [Visualising data structures and algorithms through animation](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
 * [Responsive Logos](http://responsivelogos.co.uk/)
 * [Web Components with Googles API](http://googlewebcomponents.github.io/)

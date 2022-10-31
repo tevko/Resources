@@ -1,5 +1,4 @@
 ## Podcasts
-* [letscodejavascript.com](http://www.letscodejavascript.com/)
 * [Shoptalk Show](http://shoptalkshow.com/)
 * [CodePen Radio](http://blog.codepen.io/radio/)
 * [Responsive Web Design - Podcast](http://responsivewebdesign.com/podcast/)

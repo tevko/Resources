@@ -27,7 +27,6 @@
 * [Avoiding anonymous JavaScript functions](http://toddmotto.com/avoiding-anonymous-javascript-functions/)
 * [Bento - Learn how to code](http://www.bentobox.io/)
 * [CodeCombat](http://codecombat.com/)
-* [Compressive Images - Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/rwd_img_compression/)
 * [Creating a -Meet The Team- Page in WordPress - CSS-Tricks](http://css-tricks.com/creating-meet-team-page-wordpress/)
 * [Database Versioning with DBV](http://www.sitepoint.com/database-versioning-dbv/)
 * [Edit fiddle - JSFiddle](http://jsfiddle.net/agrajm/wsCsp/)
