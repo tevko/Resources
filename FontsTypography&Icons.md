@@ -1,7 +1,6 @@
 ## Fonts, Typography, & Icons
 * [PhotoShop script to list fonts used in a PSD](https://github.com/iamdarrenhall/list-fonts)
 * [Up-to-date data on support for type and typographic features on the web](http://stateofwebtype.com/)
-* [A medium inspired WYSIWYG editor](https://github.com/jdkanani/smalleditor)
 * [A curated list of posts about web typography](https://github.com/charlespeters/type-findings)
 * [Born Free Typeface - A mediterranean typeface - Carlos de Toro - Graphic design and Typography - Carlos de Toro - Diseño gráfico y tipografía - Barcelona y Logroño](http://www.carlosdetoro.com/born-en/)
 * [Brick. Webfonts that actually look good.](http://brick.im/)
