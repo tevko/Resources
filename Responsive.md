@@ -3,7 +3,6 @@
 * [A group of plugins for responsive tables](https://github.com/filamentgroup/tablesaw)
 * [Conditional Media Query Mixins - CSS-Tricks](http://css-tricks.com/conditional-media-query-mixins/)
 * [Ink- A Responsive Email Framework from ZURB](http://zurb.com/ink/)
-* [Palm Reader — What media queries can my device see right now-](http://www.jordanm.co.uk/palmreader)
 * [Pizza Pie Charts - Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
 * [Responsive tables](http://gergeo.se/RWD-Table-Patterns/)
 * [filamentgroup-Ajax-Include-Pattern](https://github.com/filamentgroup/Ajax-Include-Pattern/)
