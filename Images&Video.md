@@ -19,7 +19,6 @@
 * [Cockos Incorporated - LICEcap](http://www.cockos.com/licecap/)
 * [Fantastic Shoppe Fronts - Some people collect stamps, others (old) store fronts.](http://fantasticshoppefronts.tumblr.com/)
 * [Fleurs Coiffeur Liqueur](http://fleurscoiffeur.com/)
-* [Gratisography- Free, use as you please, high-resolution pictures.](http://www.gratisography.com/)
 * [Iconogen - Favicon, Windows 8 Tiles, Apple Touch Icon and iOS7 Icon Generator](http://iconogen.com/)
 * [Little Visuals - Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them anyway you want.](http://littlevisuals.co/)
 * [Magnifier.js demo](http://mark-rolich.github.io/Magnifier.js/)
