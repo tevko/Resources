@@ -1,6 +1,5 @@
 ## Web Apps
 * [An SVG Path Builder](http://jxnblk.com/paths/)
-* [SVG Editor / Optimizer](http://petercollingridge.appspot.com/svg-editor/)
 * [Multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io/)
 * [Manipulate PDFs](http://smallpdf.com/)
 * [It's an app store for algorithms](http://algorithmia.com/)
