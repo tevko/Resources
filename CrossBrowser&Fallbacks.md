@@ -1,5 +1,4 @@
 ## Cross Browser & Fallbacks
-* [Polyfill service](https://cdn.polyfill.io/v1/)
 * [Browserhacks](http://browserhacks.com/)
 * [Chromium Switches](http://kurtextrem.github.io/ChromiumFlags/?utm_source=html5weekly&utm_medium=email)
 * [IE NetRenderer - Browser Compatibility Check -](http://netrenderer.com/)
