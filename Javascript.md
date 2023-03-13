@@ -66,7 +66,6 @@
 * [Unison.js](http://bjork24.github.io/Unison/?utm_source=CSS-Weekly&utm_campaign=Issue-90&utm_medium=email)
 * [Voix JS Component](http://pazguille.github.io/voix/)
 * [Welcome - Polymer](http://www.polymer-project.org/)
-* [[be]lazy.js -- A lazy loading and multi-serving image script](http://dinbror.dk/blazy/)
 * [annyang! Easily add speech recognition to your site](https://www.talater.com/annyang/)
 * [bostrt-wordcount.js](https://github.com/bostrt/wordcount.js)
 * [cdnjs - the missing cdn for javascript and css](http://cdnjs.com/)
