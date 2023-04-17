@@ -13,7 +13,6 @@
 * [Debugging with Git Bisect](http://www.sitepoint.com/debugging-git-blame-bisect/)
 * [all about SVG](http://css-tricks.com/mega-list-svg-information/)
 * [Using the Picture Element](http://dev.opera.com/articles/responsive-images/)
-* [Resource Timing API Demo](http://aurelio.audero.it/demo/resource-timing-api-demo.html)
 * [Simplest possible examples of HTML, CSS and JavaScript.](http://simpl.info/)
 * [Making a Responsive Grid with SASS](http://webdesign.tutsplus.com/tutorials/a-simple-responsive-grid-made-even-better-with-sass--cms-21540)
 * [A Tutorial on Getting Started with Hoodie](http://www.sitepoint.com/tutorial-getting-started-hoodie/)
