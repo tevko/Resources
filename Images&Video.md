@@ -6,7 +6,6 @@
 * [1000+ design freebies made by Dribbble users](http://freebbble.com/)
 * [All of the best free stock photos in one place](http://thestocks.im/)
 * [Free Workplace Stock photos](http://startupstockphotos.com/)
-* [Put a ScreenCap on a variety of devices](http://frame.lab25.co.uk/)
 * [Free Curated Stock Photos](http://www.raumrot.com/10/)
 * [Free Stock Video](http://mazwai.com/)
 * [Free monthly photos for all your creative needs.](http://deathtothestockphoto.com/)

@@ -33,7 +33,6 @@
 * [D3.js is a JavaScript library for manipulating documents based on data.](http://d3js.org/)
 * [Tappy! - a lightweight normalized tap event.](https://github.com/filamentgroup/tappy)
 * [CSS Shapes Polyfill](https://github.com/adobe-webplatform/css-shapes-polyfill)
-* [Easy unit testing with Jest](http://facebook.github.io/jest/index.html)
 * [What's new in ES6](https://github.com/lukehoban/es6features)
 * [BackgroundCheck](http://www.kennethcachia.com/background-check/)
 * [CLNDR.js](http://kylestetz.github.io/CLNDR/)
