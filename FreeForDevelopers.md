@@ -19,7 +19,6 @@
 * [Deploy your apps from GitHub, Bitbucket or your own repositories to one or many servers in one click.](http://dploy.io/)
 * [Let Travis CI take care of running your tests and deploying your apps.](https://travis-ci.com/plans)
 * [Build Realtime IoT Apps that Scale](http://www.pubnub.com/pricing/)
-* [Enterprise Grade Two-Factor Authentication](https://www.authy.com/developer/pricing)
 * [DEVELOP, HOST, AND SCALE YOUR APPS IN THE CLOUD](https://www.openshift.com/products/pricing)
 * [Turn your spreadsheets into APIs effortlessly](https://sheetlabs.com/#/pricing)
 * [a hosted API for adding realtime bi-directional functionality to web, mobile apps, or other Internet connected devices](http://pusher.com/signup)
