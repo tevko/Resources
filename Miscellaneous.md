@@ -2,7 +2,6 @@
 * [Contracts for Developers and Designers](https://www.hellobonsai.com/)
 * [A curated list of tools and resources for people who make websites](http://wwwhere.io/)
 * [Find websites with script URLs matching given regex](https://github.com/bramgg/pouch)
-* [The world's largest API repository](http://www.programmableweb.com/apis/directory)
 * [Maslow’s pyramid of code review](http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review)
 * [A standard for building APIs in JSON](http://jsonapi.org/)
 * [Your own local SMS gateway in Go](https://github.com/haxpax/gosms)

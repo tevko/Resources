@@ -33,7 +33,6 @@
 * [The world's easiest CMS for designers - Cloud Cannon](http://cloudcannon.com/)
 * [Typing Lessons - typing.io](http://typing.io/lessons)
 * [embedresponsively.com](http://embedresponsively.com/)
-* [localForage by mozilla](http://mozilla.github.io/localForage/)
 * [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)
 * [Quick disposable email addresses](https://maildrop.cc/)
 * [Choose the right package every time, without the hassle](https://openbase.com/)
