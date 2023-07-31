@@ -44,7 +44,6 @@
 * [Responsive Web Design Resources - This Is Responsive](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [Shape Hover Effect with SVG - Demo 3](http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index3.html)
 * [Snugug-north](https://github.com/snugug/north)
-* [The Pastry Box Project - 8 October 2013, baked by Oli Studholme](http://the-pastry-box-project.net/oli-studholme/2013-october-8/)
 * [Thinkful - A Guide To Using Github Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/start/new-project/user-page/)
 * [URL Rewriting for the Fearful ◆ 24 ways](http://24ways.org/2013/url-rewriting-for-the-fearful/)
 * [Unfolding the Box Model- Exploring CSS 3D Transforms](http://rupl.github.io/unfold/)
