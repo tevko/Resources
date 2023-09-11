@@ -2,7 +2,6 @@
 * [PhotoShop script to list fonts used in a PSD](https://github.com/iamdarrenhall/list-fonts)
 * [Up-to-date data on support for type and typographic features on the web](http://stateofwebtype.com/)
 * [A curated list of posts about web typography](https://github.com/charlespeters/type-findings)
-* [Born Free Typeface - A mediterranean typeface - Carlos de Toro - Graphic design and Typography - Carlos de Toro - Diseño gráfico y tipografía - Barcelona y Logroño](http://www.carlosdetoro.com/born-en/)
 * [Brick. Webfonts that actually look good.](http://brick.im/)
 * [Firefox OS Typeface — Mozilla Style Guide — mozilla.org](http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/)
 * [Latest typography samples - Typ.io](http://www.typ.io/latest)
