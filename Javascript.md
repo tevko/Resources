@@ -39,7 +39,6 @@
 * [Conditioner.js • Frizz free, environment-aware, javascript modules.](http://conditionerjs.com/)
 * [Detector [BETA] - combined browser- & feature-detection for your app](http://detector.dmolsen.com/)
 * [DocumentCloud's VisualSearch.js](http://documentcloud.github.io/visualsearch/)
-* [Drawingboard.js- a simple canvas based drawing app that you can integrate easily on your website.](http://leimi.github.io/drawingboard.js/)
 * [Ember.js - About](http://emberjs.com/)
 * [FileAPI — a set of javascript tools for working with files.](http://mailru.github.io/FileAPI/)
 * [Fit.js » Fit things into other things](http://soulwire.github.io/fit.js/)
