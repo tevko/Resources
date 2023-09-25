@@ -30,3 +30,4 @@
 * [Sneat Free Bootstrap HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/)
 * [Year round developer events to attend and host](https://www.codementor.io/events)
 * [Sneat Free Vuetify Vuejs Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/)
+* [Materio Free Bootstrap HTML Admin Template](https://themeselection.com/item/materio-free-bootstrap-html-admin-template/)
