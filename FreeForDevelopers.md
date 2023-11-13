@@ -7,7 +7,6 @@
 * [A Versioning and deployment tool](http://www.springloops.io/#pricing)
 * [Design a working prototype then export production-ready HTML & CSS or share by URL](http://typecast.com/plans)
 * [Translate your website with one line of code](https://localizejs.com/pricing)
-* [A documentation and developer hub generator made easy](https://readme.io/)
 * [Allow your Javascript apps to be crawled perfectly by search engines](https://prerender.io/pricing)
 * [Powerful authentication and authorization for your apps and APIs](https://auth0.com/pricing)
 * [Static Web Hosting for Developers](http://www.divshot.com/pricing)
