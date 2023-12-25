@@ -1,8 +1,5 @@
 ## HTML
 * [Rich email messages made easy - at no cost](https://beefree.io/)
-* [A list of HTML and XHTML elements, past and present](http://w3c.github.io/elements-of-html/)
-* [Custom form elements used to be difficult](http://wtfforms.com/)
-* [Test HTML emails for FREE](http://putsmail.com/)
 * [A place to discuss and evolve web component best-practices](http://webcomponents.org/)
 * [Animatron](http://animatron.com/)
 * [CSS inliner - Campaign Monitor](http://inliner.cm/)
@@ -10,6 +7,5 @@
 * [HTMLHint](http://htmlhint.com/)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 * [Share Button Test](http://carrot.github.io/share-button/)
-* [TABLEIZER! -- Spreadsheets to HTML Tables Tool](http://tableizer.journalistopia.com/)
 * [A solution for responsive tables with complex data](http://gergeo.se/RWD-Table-Patterns/)
 * [A list of everything that can go in your Document's HEAD](https://htmlhead.dev/)

@@ -7,7 +7,6 @@
 * [Watir-Webdriver- Control the Browser](http://www.sitepoint.com/watir-webdriver-control-browser/?utm_medium=email&utm_campaign=SitePoint+Ruby+20140429&utm_content=SitePoint+Ruby+20140429+CID_466417c19b7723693d94d64bc68101a3&utm_source=CampaignMonitor%20SitePoint&utm_term=Watir-Webdriver)
 * [mdo-css-perf](https://github.com/mdo/css-perf)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-* [WebPagetest - Website Performance and Optimization Test](http://www.webpagetest.org/)
 * [Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage)](https://github.com/alekseykulikov/storage)
 * [A curated list of Web Performance Optimization. Everyone can contribute here!](https://github.com/davidsonfellipe/awesome-wpo/)
 * [Rich tools for instrumenting, analyzing, and visualizing web apps](http://google.github.io/tracing-framework/)

@@ -26,7 +26,6 @@
 * [CSS Explain](http://josh.github.io/css-explain/)
 * [CSS Filters Demo](http://bennettfeely.com/filters/)
 * [CSS Modal - Modals built out of pure CSS](http://drublic.github.io/css-modal/#!)
-* [CSS3 PIE- CSS3 decorations for IE](http://css3pie.com/)
 * [CSSynth](http://bennettfeely.com/cssynth/)
 * [Call-to-Action Button Generator - Design buttons & download as CSS PNG](http://buttonoptimizer.com/)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
