@@ -7,7 +7,6 @@
 * [HTML5 Clientless Remote Desktop](http://guac-dev.org/)
 * [Be your own webhost](https://yunohost.org/#/)
 * [Web Speech API components](http://zenorocha.github.io/voice-elements/)
-* [Unicode Character Recognition](http://shapecatcher.com/)
 * [JavaScript note taking application with Markdown editor and encryption support](https://laverna.cc/)
 * [Do More with Google Apps](https://developers.google.com/apps-script/)
 * [Open Sourced Maps](http://www.openstreetmap.org/#map=5/45.951/-15.820)
