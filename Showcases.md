@@ -3,8 +3,6 @@
 * [Visualising data structures and algorithms through animation](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
 * [Responsive Logos](http://responsivelogos.co.uk/)
 * [Web Components with Googles API](http://googlewebcomponents.github.io/)
-* [Caption Hover Effects](http://tympanus.net/Tutorials/CaptionHoverEffects/)
-* [Inspiration for subtle hover effects](http://tympanus.net/Development/HoverEffectIdeas/)
 * [Flat UI Design A showcase of the best examples of the flat UI design aesthetic on the web.](http://fltdsgn.com/)
 * [Niice. A search engine with taste.](http://www.niice.co/)
 * [Plunker - Explore](http://plnkr.co/)

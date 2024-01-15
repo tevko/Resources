@@ -1,10 +1,8 @@
 ## Tutorials
 * [Common git screwups/questions and solutions](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
-* [Alert Dialogs with Codrops](http://tympanus.net/Development/DialogEffects/)
 * [Getting Git right, with tutorials, news and tips.](https://www.atlassian.com/git/)
 * [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 * [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
-* [Off Canvas Menu Effects](http://tympanus.net/Development/OffCanvasMenuEffects/)
 * [USING SVG TO SHRINK YOUR PNGS](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/)
 * [Minimizing font resources](http://jakearchibald.com/2014/minimising-font-downloads/)
 * [Centering things in CSS Decision Tree](http://css-tricks.com/centering-css-complete-guide/)
@@ -42,7 +40,6 @@
 * [Recordit- Record screencasts fast & free! with GIF Support!](http://recordit.co/)
 * [Responsive Images with Apropos](http://corner.squareup.com/2013/08/responsive-images-with-apropos.html)
 * [Responsive Web Design Resources - This Is Responsive](http://bradfrost.github.io/this-is-responsive/resources.html)
-* [Shape Hover Effect with SVG - Demo 3](http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index3.html)
 * [Snugug-north](https://github.com/snugug/north)
 * [Thinkful - A Guide To Using Github Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/start/new-project/user-page/)
 * [URL Rewriting for the Fearful ◆ 24 ways](http://24ways.org/2013/url-rewriting-for-the-fearful/)
