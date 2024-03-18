@@ -12,7 +12,6 @@
 * [Open Sourced Maps](http://www.openstreetmap.org/#map=5/45.951/-15.820)
 * [Animatron](http://animatron.com/)
 * [Back of a Napkin](http://www.backofanapkin.co.nz/start)
-* [Deflect.io](http://www.deflect.io/)
 * [Features - import•io](https://import.io/features)
 * [Find out the size of a piece of text -- ...because (byte)size matters!](http://bytesizematters.com/)
 * [Free Beautiful Online Survey & Form Builder - Typeform](http://www.typeform.com/)
