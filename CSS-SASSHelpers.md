@@ -40,7 +40,6 @@
 * [Simptip- a simple CSS tooltip made with Sass](http://arashm.net/lab/simptip/)
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [Tridiv - CSS 3D Editor](http://tridiv.com/)
-* [atMedia.info - CSS Media Query Generator](http://atmedia.info/)
 * [csswizardry-CSS-Guidelines](https://github.com/csswizardry/CSS-Guidelines)
 * [danielguillan-modernizr-mixin](https://github.com/danielguillan/modernizr-mixin)
 * [devatrox-Sunglass · GitHub](https://github.com/devatrox/Sunglass)

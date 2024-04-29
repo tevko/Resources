@@ -1,7 +1,6 @@
 ## Testing
 * [Feature Tests for JavaScript](https://github.com/getify/es-feature-tests)
 * [Render any dynamic Javascript webpage to JSON](http://phear.io/)
-* [Hound comments on style violations in GitHub pull requests](https://houndci.com/)
 * [Monkey testing library for web apps and Node.js](https://github.com/marmelab/gremlins.js)
 * [Gather in-app user feedback for free](https://doorbell.io/)
 * [DevTools Snippets](http://bgrins.github.io/devtools-snippets/#cssreload)
