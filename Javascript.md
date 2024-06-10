@@ -48,7 +48,6 @@
 * [InstantClick – JS lib to make your website instant](http://instantclick.io/)
 * [JSHint, a JavaScript Code Quality Tool](http://jshint.com/)
 * [JavaScript HTML5 UI Components Library for Desktop and Mobile Web Apps Development - Webix](http://webix.com/)
-* [JavascriptOO.com](http://www.javascriptoo.com/)
 * [List.js - Search, sort, filters, flexibility to tables, list and more!](http://listjs.com/)
 * [Magnifier.js demo](http://mark-rolich.github.io/Magnifier.js/)
 * [Mozilla Labs - TogetherJS](https://togetherjs.com/)

@@ -37,7 +37,6 @@
 * [Really Quick Responsive Web Design Calculator](http://rqrwd.com/)
 * [Sass Style Guide - CSS-Tricks](http://css-tricks.com/sass-style-guide/)
 * [SassMeister - The Sass Playground!](http://sassmeister.com/)
-* [Simptip- a simple CSS tooltip made with Sass](http://arashm.net/lab/simptip/)
 * [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [Tridiv - CSS 3D Editor](http://tridiv.com/)
 * [csswizardry-CSS-Guidelines](https://github.com/csswizardry/CSS-Guidelines)
