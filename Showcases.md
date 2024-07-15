@@ -1,7 +1,6 @@
 ## Showcases
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 * [Visualising data structures and algorithms through animation](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
-* [Responsive Logos](http://responsivelogos.co.uk/)
 * [Web Components with Googles API](http://googlewebcomponents.github.io/)
 * [Niice. A search engine with taste.](http://www.niice.co/)
 * [Plunker - Explore](http://plnkr.co/)
