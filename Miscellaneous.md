@@ -19,3 +19,4 @@
 * [Build a blog with Github pages!](https://github.com/HubPress/hubpress.io)
 * [CodePen for native app development on Android & iOS](https://snack.expo.io/)
 * [A simple JSON poker API for calculating the winning hand in a game of Texas hold 'em](https://www.pokerapi.dev/)
+* [A web scraping and browser automation library](https://github.com/apify/crawlee-python)
