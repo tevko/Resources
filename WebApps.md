@@ -13,7 +13,6 @@
 * [Animatron](http://animatron.com/)
 * [Back of a Napkin](http://www.backofanapkin.co.nz/start)
 * [Features - import•io](https://import.io/features)
-* [Find out the size of a piece of text -- ...because (byte)size matters!](http://bytesizematters.com/)
 * [Free Beautiful Online Survey & Form Builder - Typeform](http://www.typeform.com/)
 * [Free online invoicing App & time tracking software Nutcache](http://www.nutcache.com/free.html)
 * [IP Address Details - ipinfo.io](http://ipinfo.io/)
