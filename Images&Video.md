@@ -25,7 +25,6 @@
 * [Noise Texture Generator v2.1](http://www.noisetexturegenerator.com/)
 * [ReSRC - Responsive images on demand, direct from the cloud](http://www.resrc.it/)
 * [Unsplash](http://unsplash.com/)
-* [Web Interface · Kraken.io](https://kraken.io/web-interface)
 * [jansepar-picturefill](https://github.com/jansepar/picturefill)
 * [tevko-wp-tevko-responsive-images](https://github.com/tevko/wp-tevko-responsive-images)
 * [Compress Images in the Browser](https://squoosh.app/)
