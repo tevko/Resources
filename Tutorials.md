@@ -22,7 +22,6 @@
 * [An interactive video intro to flexbox](http://www.sketchingwithcss.com/flexbox/)
 * [An introduction to SVG animation - Big Bite Creative](http://bigbitecreative.com/introduction-svg-animation/?utm_source=CSS-Weekly&utm_campaign=Issue-87&utm_medium=email)
 * [Avoiding anonymous JavaScript functions](http://toddmotto.com/avoiding-anonymous-javascript-functions/)
-* [Bento - Learn how to code](http://www.bentobox.io/)
 * [CodeCombat](http://codecombat.com/)
 * [Creating a -Meet The Team- Page in WordPress - CSS-Tricks](http://css-tricks.com/creating-meet-team-page-wordpress/)
 * [Database Versioning with DBV](http://www.sitepoint.com/database-versioning-dbv/)
