@@ -73,7 +73,6 @@
 * [mnmly-select-switch](https://github.com/mnmly/select-switch/)
 * [pornel-slip](https://github.com/pornel/slip)
 * [rserota-wad](https://github.com/rserota/wad)
-* [scrollReveal.js](http://julianlloyd.me/scrollreveal/)
 * [sfioritto-charlie.js](https://github.com/sfioritto/charlie.js/tree/master)
 * [three.js - JavaScript 3D library](http://threejs.org/)
 * [toddmotto-echo](https://github.com/toddmotto/echo)
