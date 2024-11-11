@@ -5,7 +5,6 @@
 * [Niice. A search engine with taste.](http://www.niice.co/)
 * [Plunker - Explore](http://plnkr.co/)
 * [The Evolution of the Web](http://www.evolutionoftheweb.com/)
-* [Workshop - Chrome Experiments](http://workshop.chromeexperiments.com/)
 * [httpster.net](http://httpster.net/)
 * [tooling-book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling/)
 * [A repository of different color schemes for Google Maps aimed towards web designers and developers](http://snazzymaps.com/)
