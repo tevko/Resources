@@ -44,7 +44,6 @@
 * [FlowType.JS — Responsive web typography at its finest- font-size and line-height based on element width.](http://simplefocus.com/flowtype/)
 * [Formstone  -  Ben Plum](http://www.benplum.com/formstone/)
 * [Hammer.js - A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)
-* [Headroom.js](http://wicky.nillia.ms/headroom.js/)
 * [InstantClick – JS lib to make your website instant](http://instantclick.io/)
 * [JSHint, a JavaScript Code Quality Tool](http://jshint.com/)
 * [JavaScript HTML5 UI Components Library for Desktop and Mobile Web Apps Development - Webix](http://webix.com/)
