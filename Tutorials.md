@@ -25,7 +25,6 @@
 * [CodeCombat](http://codecombat.com/)
 * [Creating a -Meet The Team- Page in WordPress - CSS-Tricks](http://css-tricks.com/creating-meet-team-page-wordpress/)
 * [Database Versioning with DBV](http://www.sitepoint.com/database-versioning-dbv/)
-* [Features for Theme Developers (WordPress 3.9) - WP Theming](http://wptheming.com/2014/04/features-wordpress-3-9/)
 * [Grid](http://www.adamkaplan.me/grid/)
 * [HTML 5 JavaScript API Index](http://html5index.org/)
 * [Home — Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
