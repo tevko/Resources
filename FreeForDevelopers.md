@@ -29,3 +29,4 @@
 * [Year round developer events to attend and host](https://www.codementor.io/events)
 * [Sneat Free Vuetify Vuejs Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/)
 * [List of free APIs](https://github.com/public-apis/public-apis)
+* [Flyon UI](https://flyonui.com/)
