@@ -5,7 +5,6 @@
 * [It's an app store for algorithms](http://algorithmia.com/)
 * [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
 * [HTML5 Clientless Remote Desktop](http://guac-dev.org/)
-* [Be your own webhost](https://yunohost.org/#/)
 * [Web Speech API components](http://zenorocha.github.io/voice-elements/)
 * [Do More with Google Apps](https://developers.google.com/apps-script/)
 * [Open Sourced Maps](http://www.openstreetmap.org/#map=5/45.951/-15.820)
