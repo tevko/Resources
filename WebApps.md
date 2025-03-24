@@ -15,7 +15,6 @@
 * [Free online invoicing App & time tracking software Nutcache](http://www.nutcache.com/free.html)
 * [IP Address Details - ipinfo.io](http://ipinfo.io/)
 * [Koding - A New Way For Developers To Work](https://koding.com/)
-* [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](http://dillinger.io/)
 * [Online regex tester and debugger- JavaScript, Python, PHP, and PCRE](http://regex101.com/)
 * [Pantheon - The Professional Website Platform for Drupal and WordPress](https://www.getpantheon.com/)
 * [Playground from ZURB - Design tools and creative experiments](http://zurb.com/playground)
