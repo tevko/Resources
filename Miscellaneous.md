@@ -6,7 +6,6 @@
 * [Your own local SMS gateway in Go](https://github.com/haxpax/gosms)
 * [Helpful code snippets from CSS-Tricks](http://css-tricks.com/snippets/html/)
 * [Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.](https://github.com/nwjs/nw.js)
-* [An awesome list of (large-scale) public datasets on the Internet](https://github.com/caesar0301/awesome-public-datasets)
 * [APIs from the New York Times](http://developer.nytimes.com/docs)
 * [Parsing HTML at the command line](https://github.com/EricChiang/pup)
 * [Generate random identity objects including name, address, etc. ](http://travishorn.github.io/fake-identity/)
