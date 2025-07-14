@@ -4,7 +4,6 @@
 * [Animatron](http://animatron.com/)
 * [CSS inliner - Campaign Monitor](http://inliner.cm/)
 * [Entity Lookup](http://entity-lookup.leftlogic.com/)
-* [HTMLHint](http://htmlhint.com/)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 * [Share Button Test](http://carrot.github.io/share-button/)
 * [A solution for responsive tables with complex data](http://gergeo.se/RWD-Table-Patterns/)
