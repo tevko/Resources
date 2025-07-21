@@ -38,7 +38,6 @@
 * [Responsive Images with Apropos](http://corner.squareup.com/2013/08/responsive-images-with-apropos.html)
 * [Responsive Web Design Resources - This Is Responsive](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [Snugug-north](https://github.com/snugug/north)
-* [Thinkful - A Guide To Using Github Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/start/new-project/user-page/)
 * [URL Rewriting for the Fearful ◆ 24 ways](http://24ways.org/2013/url-rewriting-for-the-fearful/)
 * [Unfolding the Box Model- Exploring CSS 3D Transforms](http://rupl.github.io/unfold/)
 * [Using WAI-ARIA in HTML](http://rawgithub.com/w3c/aria-in-html/master/index.html)

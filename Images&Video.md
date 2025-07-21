@@ -13,7 +13,6 @@
 * [1.4 Million Free Graphic Files for Download](http://www.freepik.com/)
 * [Node-WebKit based GUI for SVGO](https://github.com/svg/svgo-gui)
 * [The Ultimate Image Optimization Tool](http://optimizilla.com/)
-* [A curated collection of free resources, all for commercial use.](http://www.imcreator.com/free)
 * [Free photos from Reddit](http://www.reddit.com/r/free_images/)
 * [Cockos Incorporated - LICEcap](http://www.cockos.com/licecap/)
 * [Fantastic Shoppe Fronts - Some people collect stamps, others (old) store fronts.](http://fantasticshoppefronts.tumblr.com/)
