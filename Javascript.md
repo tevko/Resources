@@ -10,7 +10,6 @@
 * [JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers](http://interactjs.io/)
 * [An aggregation of tooling for using ES6 today](https://github.com/addyosmani/es6-tools)
 * [A simple autocomplete widget with zero dependencies](http://leaverou.github.io/awesomplete/)
-* [A small (~0.8 kb minified + gzipped) event delegation library](http://craig.is/riding/gators)
 * [JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
 * [the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 * [A compiler from Go (golang.org) to JavaScript for running Go code in a browser](https://github.com/gopherjs/gopherjs)
