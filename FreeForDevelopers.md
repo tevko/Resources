@@ -2,7 +2,6 @@
 * [Cross Platform Cloud IDE](https://codeanywhere.com/pricing)
 * [Free Intelligent APIs from Microsoft](https://www.microsoft.com/cognitive-services/en-us/apis)
 * [Instantly build and ship code anywhere in one consistent process for your entire team](http://deploybot.com/#pricing)
-* [Coveralls - Test Coverage History & Statistics](https://coveralls.io/pricing)
 * [Powerful Continuous Integration and Delivery](https://codeship.com/pricing)
 * [A Versioning and deployment tool](http://www.springloops.io/#pricing)
 * [Design a working prototype then export production-ready HTML & CSS or share by URL](http://typecast.com/plans)
