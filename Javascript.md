@@ -40,7 +40,6 @@
 * [Fit.js » Fit things into other things](http://soulwire.github.io/fit.js/)
 * [FitText - A plugin for inflating web type](http://fittextjs.com/)
 * [FlowType.JS — Responsive web typography at its finest- font-size and line-height based on element width.](http://simplefocus.com/flowtype/)
-* [Formstone  -  Ben Plum](http://www.benplum.com/formstone/)
 * [Hammer.js - A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)
 * [InstantClick – JS lib to make your website instant](http://instantclick.io/)
 * [JSHint, a JavaScript Code Quality Tool](http://jshint.com/)
