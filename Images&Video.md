@@ -3,7 +3,6 @@
 * [Another list of free images](http://thenuschool.com/free-stock-photos-websites-awesome-list/)
 * [JavaScript library enabling SVG icons to morph from one to the other](http://alexk111.github.io/SVG-Morpheus/)
 * [SVG animation tool](http://svgcircus.com/)
-* [1000+ design freebies made by Dribbble users](http://freebbble.com/)
 * [All of the best free stock photos in one place](http://thestocks.im/)
 * [Free Workplace Stock photos](http://startupstockphotos.com/)
 * [Free Curated Stock Photos](http://www.raumrot.com/10/)
