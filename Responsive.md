@@ -8,7 +8,6 @@
 * [filamentgroup-Ajax-Include-Pattern](https://github.com/filamentgroup/Ajax-Include-Pattern/)
 * [imazen-slimmage](https://github.com/imazen/slimmage)
 * [madgex-lazy-ads](https://github.com/madgex/lazy-ads?utm_source=Responsive+Design+Weekly&utm_campaign=c9014bde4d-Responsive_Design_Weekly_98&utm_medium=email&utm_term=0_df65b6d7c8-c9014bde4d-59002865)
-* [mydevice.io common smartphones and tablets devices values](http://www.mydevice.io/devices/?utm_source=Responsive+Design+Weekly&utm_campaign=4750cabfed-Responsive_Design_Weekly_94&utm_medium=email&utm_term=0_df65b6d7c8-4750cabfed-59002865)
 * [shakyShane-browser-sync · GitHub](https://github.com/shakyShane/browser-sync)
 * [sindresorhus-pageres](https://github.com/sindresorhus/pageres)
 * [tevko-wp-tevko-responsive-images](https://github.com/tevko/wp-tevko-responsive-images)

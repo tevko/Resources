@@ -37,7 +37,6 @@
 * [Snugug-north](https://github.com/snugug/north)
 * [URL Rewriting for the Fearful ◆ 24 ways](http://24ways.org/2013/url-rewriting-for-the-fearful/)
 * [Unfolding the Box Model- Exploring CSS 3D Transforms](http://rupl.github.io/unfold/)
-* [Using WAI-ARIA in HTML](http://rawgithub.com/w3c/aria-in-html/master/index.html)
 * [Using window.matchMedia to do media queries in JavaScript ✩ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2012/06/using-window-matchmedia-to-do-media-queries-in-javascript/)
 * [Web Developer Checklist](http://webdevchecklist.com/)
 * [WebGL With Three.js- Basics - Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/webgl-with-three-js-basics/)
