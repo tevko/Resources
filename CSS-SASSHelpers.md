@@ -28,7 +28,6 @@
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 * [Flexbox Grid](http://flexboxgrid.com/)
 * [Guide to CSS support in email - Campaign Monitor](http://www.campaignmonitor.com/css/)
-* [Jeet Grid System - Smart CSS preprocessor grids](http://jeet.gs/)
 * [Label.css - Label every thing!](http://usablica.github.io/label.css/)
 * [Layers CSS](http://eiskis.net/layers/)
 * [NTH-TEST - nth-child and nth-of-type Tester](http://nth-test.com/)
