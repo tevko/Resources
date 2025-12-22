@@ -50,7 +50,6 @@
 * [OJ - Unified Templating](http://ojjs.org/)
 * [Offline.js – Handle your users losing their internet connection like a pro](http://github.hubspot.com/offline/docs/welcome/)
 * [Pizza Pie Charts - Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
-* [Planetary.js- Awesome interactive globes for the web](http://planetaryjs.com/)
 * [Snap.svg API Reference](http://snapsvg.io/docs/)
 * [So you need a template engine..](http://garann.github.io/template-chooser/)
 * [Testing.](http://mintchaos.github.io/flippant.js/)
