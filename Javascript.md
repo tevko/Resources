@@ -16,7 +16,6 @@
 * [Render 3D scenes into SVG or HTML5 Canvas](http://seenjs.io/)
 * [A CAD Library for the Web](http://verbnurbs.com/)
 * [The missing Javascript smart persistent layer](http://wisembly.github.io/basil.js/)
-* [A client-side Javascript SDK for authenticating with OAuth2 web services and querying their REST API's](http://adodson.com/hello.js/)
 * [Accelerated JavaScript animation](https://github.com/julianshapiro/velocity)
 * [Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
 * [Responsive Charts and Graphs](http://gionkunz.github.io/chartist-js/)

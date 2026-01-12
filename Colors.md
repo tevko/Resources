@@ -1,6 +1,5 @@
 ## Colors
 * [BackgroundCheck](http://www.kennethcachia.com/background-check/)
-* [CSS Colours - A list of colour names in CSS](http://colours.neilorangepeel.com/)
 * [Color Scheme Designer 3](http://colorschemedesigner.com/)
 * [Colorgorize the Web](http://www.colorgorize.com/)
 * [Colourco.de - find your colour scheme](http://colourco.de/)

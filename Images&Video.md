@@ -15,7 +15,6 @@
 * [Free photos from Reddit](http://www.reddit.com/r/free_images/)
 * [Cockos Incorporated - LICEcap](http://www.cockos.com/licecap/)
 * [Fantastic Shoppe Fronts - Some people collect stamps, others (old) store fronts.](http://fantasticshoppefronts.tumblr.com/)
-* [Iconogen - Favicon, Windows 8 Tiles, Apple Touch Icon and iOS7 Icon Generator](http://iconogen.com/)
 * [Little Visuals - Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them anyway you want.](http://littlevisuals.co/)
 * [Magnifier.js demo](http://mark-rolich.github.io/Magnifier.js/)
 * [Makeappicon - Generate app icons of all sizes in a click!](http://makeappicon.com/#)
