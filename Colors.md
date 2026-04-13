@@ -5,5 +5,4 @@
 * [Colourco.de - find your colour scheme](http://colourco.de/)
 * [Flat Surface Shader](http://wagerfield.github.io/flat-surface-shader/)
 * [Flat UI Colors](http://flatuicolors.com/)
-* [press the spacebar to generate colors!](http://coolors.co/fcebd1-ebdbc4-9fc3b5-62aa9f-4d4538)
 * [Monochrome color scheme generator](https://copypalette.netlify.com)
