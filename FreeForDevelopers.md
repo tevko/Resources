@@ -8,7 +8,6 @@
 * [Translate your website with one line of code](https://localizejs.com/pricing)
 * [Allow your Javascript apps to be crawled perfectly by search engines](https://prerender.io/pricing)
 * [Powerful authentication and authorization for your apps and APIs](https://auth0.com/pricing)
-* [Static Web Hosting for Developers](http://www.divshot.com/pricing)
 * [The easiest way to add great search to your website](https://swiftype.com/pricing)
 * [Connect and Automate Over 300 Web Apps](https://zapier.com/)
 * [Web Data Extraction Made Easy](https://import.io/pricing)
