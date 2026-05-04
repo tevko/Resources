@@ -18,7 +18,6 @@
 * [A Complete Guide to Flexbox - CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [A Visual Guide to Sass & Compass Color Functions - Jackie Balzer](http://jackiebalzer.com/color)
 * [An interactive video intro to flexbox](http://www.sketchingwithcss.com/flexbox/)
-* [An introduction to SVG animation - Big Bite Creative](http://bigbitecreative.com/introduction-svg-animation/?utm_source=CSS-Weekly&utm_campaign=Issue-87&utm_medium=email)
 * [Avoiding anonymous JavaScript functions](http://toddmotto.com/avoiding-anonymous-javascript-functions/)
 * [CodeCombat](http://codecombat.com/)
 * [Creating a -Meet The Team- Page in WordPress - CSS-Tricks](http://css-tricks.com/creating-meet-team-page-wordpress/)
