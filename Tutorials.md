@@ -13,7 +13,6 @@
 * [Simplest possible examples of HTML, CSS and JavaScript.](http://simpl.info/)
 * [Making a Responsive Grid with SASS](http://webdesign.tutsplus.com/tutorials/a-simple-responsive-grid-made-even-better-with-sass--cms-21540)
 * [CoffeScript Examples](http://css-tricks.com/jquery-coffeescript/)
-* [10 Excellent Free Open Source Projects To Create Your Own CDN - Content Delivery Network - FromDev](http://www.fromdev.com/2011/06/create-cdn-content-delivery-network.html)
 * [8 HTML Elements You're Not Using (and Should Be)](http://davidwalsh.name/8-html-elements)
 * [A Complete Guide to Flexbox - CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [A Visual Guide to Sass & Compass Color Functions - Jackie Balzer](http://jackiebalzer.com/color)
