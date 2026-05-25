@@ -9,7 +9,6 @@
 * [Free Stock Video](http://mazwai.com/)
 * [Free monthly photos for all your creative needs.](http://deathtothestockphoto.com/)
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
-* [1.4 Million Free Graphic Files for Download](http://www.freepik.com/)
 * [Node-WebKit based GUI for SVGO](https://github.com/svg/svgo-gui)
 * [Free photos from Reddit](http://www.reddit.com/r/free_images/)
 * [Cockos Incorporated - LICEcap](http://www.cockos.com/licecap/)
