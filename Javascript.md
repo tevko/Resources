@@ -19,7 +19,6 @@
 * [Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
 * [Responsive Charts and Graphs](http://gionkunz.github.io/chartist-js/)
 * [A jQuery plugin to stop the jank of page loads.](https://github.com/miguel-perez/jquery.smoothState.js)
-* [The definitive source of the best JavaScript libraries, frameworks, and plugins.](http://www.jsdb.io/)
 * [Use your phone to control your webapp](https://github.com/ehzhang/nunchuck)
 * [AutoPrefixer for JS pollyfills](https://github.com/azproduction/autopolyfiller)
 * [A modern approach for Computer Vision on the web](http://trackingjs.com/)
