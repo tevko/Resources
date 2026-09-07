@@ -1,5 +1,4 @@
 ## Free For Developers
-* [Cross Platform Cloud IDE](https://codeanywhere.com/pricing)
 * [Free Intelligent APIs from Microsoft](https://www.microsoft.com/cognitive-services/en-us/apis)
 * [Instantly build and ship code anywhere in one consistent process for your entire team](http://deploybot.com/#pricing)
 * [A Versioning and deployment tool](http://www.springloops.io/#pricing)
