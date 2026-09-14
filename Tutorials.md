@@ -42,3 +42,4 @@
 * [requestAnimationFrame for smart animating - Paul Irish](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 * [Loading WebFonts with performance in mind](http://bdadam.com/blog/loading-webfonts-with-high-performance.html)
 * [Getting Started with React](https://github.com/BinaryMuse/react-primer)
+* [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book covering fundamentals through advanced concepts.
