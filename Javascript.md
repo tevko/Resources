@@ -13,7 +13,6 @@
 * [the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 * [A compiler from Go (golang.org) to JavaScript for running Go code in a browser](https://github.com/gopherjs/gopherjs)
 * [Render 3D scenes into SVG or HTML5 Canvas](http://seenjs.io/)
-* [A CAD Library for the Web](http://verbnurbs.com/)
 * [The missing Javascript smart persistent layer](http://wisembly.github.io/basil.js/)
 * [Accelerated JavaScript animation](https://github.com/julianshapiro/velocity)
 * [Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
