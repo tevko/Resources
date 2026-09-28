@@ -1,6 +1,5 @@
 ## Images & Video
 * [A lightweight image comparison tool](http://yahoo.github.io/blink-diff/)
-* [Another list of free images](http://thenuschool.com/free-stock-photos-websites-awesome-list/)
 * [JavaScript library enabling SVG icons to morph from one to the other](http://alexk111.github.io/SVG-Morpheus/)
 * [SVG animation tool](http://svgcircus.com/)
 * [All of the best free stock photos in one place](http://thestocks.im/)
