@@ -26,4 +26,5 @@
 * [Typing Lessons - typing.io](http://typing.io/lessons)
 * [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)
 * [Quick disposable email addresses](https://maildrop.cc/)
+* [BestJSON JSON Diff - Compare JSON structures and inspect changed values by path](https://bestjson.com/json-diff)
 * [Choose the right package every time, without the hassle](https://openbase.com/)
