@@ -1,5 +1,4 @@
 ## Tutorials
-* [Common git screwups/questions and solutions](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Getting Git right, with tutorials, news and tips.](https://www.atlassian.com/git/)
 * [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 * [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
